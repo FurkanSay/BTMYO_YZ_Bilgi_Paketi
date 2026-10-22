@@ -4,7 +4,7 @@ tur: Yönerge
 resmi_metin: https://kms.kaysis.gov.tr/Home/Goster/202940
 madde_sayisi: 18
 metin_cikarma: 2026-10-22 (resmî PDF'ten, yapay zekâ kullanılmadan)
-goz_kontrolu: yapılmadı
+goz_kontrolu: 2026-10-22
 ---
 
 # ATÜ Yatay Geçiş Yönergesi

@@ -4,7 +4,7 @@ tur: Yönetmelik
 resmi_metin: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=44944&MevzuatTur=8&MevzuatTertip=5
 madde_sayisi: 38
 metin_cikarma: 2026-10-22 (resmî PDF'ten, yapay zekâ kullanılmadan)
-goz_kontrolu: yapılmadı
+goz_kontrolu: 2026-10-22
 ---
 
 # ATÜ Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği

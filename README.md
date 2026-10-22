@@ -4,16 +4,28 @@ Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi, Bilişim Teknolojiler
 
 ## Öğrenciler için
 
-Aşağıdaki metnin tamamını kopyala ve kullandığın yapay zekâya (ChatGPT, Gemini, Claude, Copilot vb.) yapıştır:
+### 1. yol: dosyayı yükle (her yapay zekâda çalışır, önerilen)
+
+1. [llms-full.txt](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/llms-full.txt) dosyasını aç ve bilgisayarına ya da telefonuna kaydet (GitHub'da dosya sayfasındaki "Download raw file" düğmesi de olur).
+2. Kullandığın yapay zekâda (ChatGPT, Gemini, Claude, Copilot vb.) yeni bir sohbet aç ve dosyayı yükle.
+3. Aşağıdaki metni kopyalayıp yapıştır:
+
+```
+Yüklediğim llms-full.txt dosyası ATÜ Bilişim Teknolojileri MYO'nun muafiyet ve yatay geçiş bilgi paketi. Metnin tamamını oku. Metindeki "Yapay zekâ için talimatlar" bölümüne göre bana yardımcı ol. Önce neler yapabileceğini listele.
+```
+
+### 2. yol: bağlantıyı ver (yapay zekân internetten sayfa açabiliyorsa)
 
 ```
 Aşağıdaki bağlantıda ATÜ Bilişim Teknolojileri MYO'nun muafiyet ve yatay geçiş bilgi paketi var:
-<llms-full.txt bağlantısı: ayarlarda yayın adresi girilince dolar>
+https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/llms-full.txt
 
-Bağlantıyı aç ve metnin tamamını oku. Metindeki "Yapay zekâ için talimatlar" bölümüne göre bana yardımcı ol. Önce neler yapabileceğini listele. Bağlantıyı açamazsan bunu açıkça söyle, tahminle cevap verme.
+Bağlantıyı aç. Metnin tamamını oku. Metindeki "Yapay zekâ için talimatlar" bölümüne göre bana yardımcı ol. Önce neler yapabileceğini listele. Bağlantıyı açamazsan bunu açıkça söyle, tahminle cevap verme.
 ```
 
-Yapay zekân bağlantıyı açamıyorsa `llms-full.txt` dosyasını indirip yapay zekâna yükle ve aynı metni yaz. Belge yüklerken adını, TC kimlik ve öğrenci numaranı karart.
+Yapay zekân bağlantıyı açamadığını söylerse 1. yolu kullan.
+
+Transkript ya da başka bir belge yüklersen önce adını, TC kimlik ve öğrenci numaranı karart.
 
 ## İçerik
 

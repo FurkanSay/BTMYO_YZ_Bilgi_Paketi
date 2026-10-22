@@ -35,6 +35,7 @@ Kendini tanıt, "Neler yapabilirim" listesini göster, kişisel bilgi paylaşmam
 
 ## Neler yapabilirim
 
+- Daha önce aldığın bir dersin muafiyet şartlarını sağlayıp sağlamadığını mevzuata göre kontrol etmek
 - Paketteki mevzuat maddelerini aynen göstermek ve sade dille açıklamak
 
 ## Yönlendirme
@@ -43,29 +44,30 @@ Soruyu önce bu tabloda bir konuya yerleştir, sonra o satırdaki dosyaya bak. S
 
 | Soru konusu | Bakılacak dosya | Dayanak |
 |---|---|---|
-| Bir programın dersleri, saatleri, AKTS'leri | [AYZ](programlar/AYZ.md), [YZO](programlar/YZO.md), [BUV](programlar/BUV.md) | Ders bildirim formu |
-| Bir maddenin tam metni | [Eğitim-Öğretim Yönetmeliği](mevzuat/egitim-ogretim-yonetmeligi.md), [Muafiyet ve İntibak Yönergesi](mevzuat/muafiyet-intibak-yonergesi.md), [Yatay Geçiş Yönergesi](mevzuat/yatay-gecis-yonergesi.md) | — |
+| muaf olur muyum, ders saydırma, eşdeğer ders, saat, AKTS, açık öğretim, yurt dışı | [Muafiyet ölçütü](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/kurallar/muafiyet-olcutu.md) | Muafiyet ve İntibak Yönergesi md. 10; Muafiyet ve İntibak Yönergesi md. 22; Muafiyet ve İntibak Yönergesi md. 6; Muafiyet ve İntibak Yönergesi md. 7; Muafiyet ve İntibak Yönergesi md. 8; Muafiyet ve İntibak Yönergesi md. 9 |
+| Bir programın dersleri, saatleri, AKTS'leri | [AYZ](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/AYZ.md), [YZO](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/YZO.md), [BUV](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/BUV.md) | Ders bildirim formu |
+| Bir maddenin tam metni | [Eğitim-Öğretim Yönetmeliği](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/egitim-ogretim-yonetmeligi.md), [Muafiyet ve İntibak Yönergesi](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/muafiyet-intibak-yonergesi.md), [Yatay Geçiş Yönergesi](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/yatay-gecis-yonergesi.md) | — |
 | Paketteki konuların dışındaki her şey | Kural 3: "Bu konu bilgi paketinde yok." | — |
 
 ## Dosyalar
 
-- [Paketin tamamı tek dosyada](llms-full.txt): Bu dosya ve aşağıdaki dosyaların hepsi. Bağlantıları tek tek açamayan yapay zekâlar için.
+- [Paketin tamamı tek dosyada](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/llms-full.txt): Bu dosya ve aşağıdaki dosyaların hepsi. Bağlantıları tek tek açamayan yapay zekâlar için.
 
 ### Kural kartları
 
-- (henüz onaylı kart yok)
+- [Muafiyet ölçütü](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/kurallar/muafiyet-olcutu.md): 12 kural
 
 ### Mevzuat (tam metin)
 
-- [ATÜ Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği](mevzuat/egitim-ogretim-yonetmeligi.md): 38 madde. Resmî metin: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=44944&MevzuatTur=8&MevzuatTertip=5
-- [ATÜ Önlisans ve Lisans Muafiyet ve İntibak Yönergesi](mevzuat/muafiyet-intibak-yonergesi.md): 27 madde. Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/155855
-- [ATÜ Yatay Geçiş Yönergesi](mevzuat/yatay-gecis-yonergesi.md): 18 madde. Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/202940
+- [ATÜ Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/egitim-ogretim-yonetmeligi.md): 38 madde. Resmî metin: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=44944&MevzuatTur=8&MevzuatTertip=5
+- [ATÜ Önlisans ve Lisans Muafiyet ve İntibak Yönergesi](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/muafiyet-intibak-yonergesi.md): 27 madde. Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/155855
+- [ATÜ Yatay Geçiş Yönergesi](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/yatay-gecis-yonergesi.md): 18 madde. Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/202940
 
 ### Programlar
 
-- [AYZ – Arka-Yüz Yazılım Geliştirme](programlar/AYZ.md): 91 ders
-- [YZO – Yapay Zekâ Operatörlüğü](programlar/YZO.md): 91 ders
-- [BUV – Büyük Veri Analistliği](programlar/BUV.md): 91 ders
+- [AYZ – Arka-Yüz Yazılım Geliştirme](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/AYZ.md): 91 ders
+- [YZO – Yapay Zekâ Operatörlüğü](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/YZO.md): 91 ders
+- [BUV – Büyük Veri Analistliği](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/BUV.md): 91 ders
 
 
 ---
@@ -77,7 +79,7 @@ tur: Yönetmelik
 resmi_metin: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=44944&MevzuatTur=8&MevzuatTertip=5
 madde_sayisi: 38
 metin_cikarma: 2026-10-22 (resmî PDF'ten, yapay zekâ kullanılmadan)
-goz_kontrolu: yapılmadı
+goz_kontrolu: 2026-10-22
 ---
 
 # ATÜ Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği
@@ -485,7 +487,7 @@ tur: Yönerge
 resmi_metin: https://kms.kaysis.gov.tr/Home/Goster/155855
 madde_sayisi: 27
 metin_cikarma: 2026-10-22 (resmî PDF'ten, yapay zekâ kullanılmadan)
-goz_kontrolu: yapılmadı
+goz_kontrolu: 2026-10-22
 ---
 
 # ATÜ Önlisans ve Lisans Muafiyet ve İntibak Yönergesi
@@ -689,7 +691,7 @@ tur: Yönerge
 resmi_metin: https://kms.kaysis.gov.tr/Home/Goster/202940
 madde_sayisi: 18
 metin_cikarma: 2026-10-22 (resmî PDF'ten, yapay zekâ kullanılmadan)
-goz_kontrolu: yapılmadı
+goz_kontrolu: 2026-10-22
 ---
 
 # ATÜ Yatay Geçiş Yönergesi
@@ -920,6 +922,31 @@ b) İlk dört yüzlük dilim dışında kalan bir üniversitede kayıtlı olunma
 |---|---|
 | Tarihi | Sayısı |
 | 26.06.2024 | 2024/16-2 |
+
+
+---
+<!-- dosya: kurallar/muafiyet-olcutu.md -->
+
+# Muafiyet ölçütü
+
+> Kural kartı. Her kural köşeli parantezdeki maddeye dayanır ve madde metniyle karşılaştırılarak onaylanmıştır. Tam metin mevzuat/ klasöründedir.
+
+Ne zaman bakılır: muaf olur muyum, ders saydırma, eşdeğer ders, saat, AKTS, açık öğretim, yurt dışı
+
+## Kurallar
+
+- Muaf olunmak istenen dersin adının ATÜ'deki dersle birebir aynı olması gerekmez. [Muafiyet ve İntibak Yönergesi md. 7: "birebir aynı olması gerekmez"]
+- Dersin zorunlu ya da seçmeli olması fark etmez. [Muafiyet ve İntibak Yönergesi md. 7: "zorunlu veya seçmeli ders olmasına bakılmaksızın"]
+- Ders en az CC notuyla geçilmiş olmalıdır; DC, DD ve daha düşük notlarla muafiyet şartı sağlanmaz. [Muafiyet ve İntibak Yönergesi md. 7: "en az CC notu ile başarılı olmak şartıyla"]
+- Dersin içeriği ve haftalık ders saati ATÜ'deki dersle uyumlu ve yeterli olmalıdır. [Muafiyet ve İntibak Yönergesi md. 7: "ders içeriğinin ve ders saatlerinin uyumuna ve yeterliliğine göre"]
+- Saat yeterliliği: dersin haftalık toplam saati (teorik + uygulama) ATÜ'deki dersin toplam saatinden az olmamalıdır. [Muafiyet ve İntibak Yönergesi md. 7: "ders saatlerinin uyumuna ve yeterliliğine göre"]
+- Ders saati bilgisi yoksa saat yerine AKTS kredisine bakılır. [Muafiyet ve İntibak Yönergesi md. 7: "Derslerin saat bilgisinin bulunmadığı hallerde derslerin AKTS kredileri dikkate alınır."]
+- Ders birden fazla kez alınmışsa en son alınan not esas alınır. [Muafiyet ve İntibak Yönergesi md. 8: "en son alınan başarı notu esas alınır"]
+- Atatürk İlkeleri ve İnkılap Tarihi ile Türk Dili derslerinde kredi uyumuna bakılmaz; bu derslerden muaf olunca AKTS kredisi verilir. [Muafiyet ve İntibak Yönergesi md. 9: "kredi uyumuna bakılmaksızın yapılır ve AKTS kredisi verilir"]
+- Birden fazla ders bir derse eşdeğer sayılırsa not, bu derslerin kredisine göre ağırlıklı ortalamayla belirlenir. [Muafiyet ve İntibak Yönergesi md. 10: "bu derslerin kredisine göre ağırlıklı not ortalaması alınarak intibak yapılır"]
+- Bir ders birden fazla derse eşdeğer sayılırsa o dersin notu hepsi için geçerli olur. [Muafiyet ve İntibak Yönergesi md. 10: "ilgili dersin başarı notu eşdeğer derslerin tamamı için geçerli sayılır"]
+- YÖK'çe denkliği tanınmayan yurt dışı üniversitelerinden alınan derslere muafiyet yapılmaz. [Muafiyet ve İntibak Yönergesi md. 6: "YÖK tarafından denkliği tanınmayan yurtdışındaki üniversitelerden alınan dersler için muafiyet ve intibak işlemleri yapılmaz"]
+- Açık öğretim ya da uzaktan eğitim programlarında alınan derslerden yalnız ortak zorunlu dersler muaf sayılabilir; diğer dersler için muafiyet yapılmaz. [Muafiyet ve İntibak Yönergesi md. 22: "Açık öğretim/uzaktan eğitim programlarında alınan diğer dersler için, muafiyet ve intibak işlemleri yapılmaz."]
 
 
 ---

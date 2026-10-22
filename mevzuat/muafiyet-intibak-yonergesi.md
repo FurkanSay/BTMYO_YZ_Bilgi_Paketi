@@ -4,7 +4,7 @@ tur: Yönerge
 resmi_metin: https://kms.kaysis.gov.tr/Home/Goster/155855
 madde_sayisi: 27
 metin_cikarma: 2026-10-22 (resmî PDF'ten, yapay zekâ kullanılmadan)
-goz_kontrolu: yapılmadı
+goz_kontrolu: 2026-10-22
 ---
 
 # ATÜ Önlisans ve Lisans Muafiyet ve İntibak Yönergesi

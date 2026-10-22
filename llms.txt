@@ -35,6 +35,7 @@ Kendini tanıt, "Neler yapabilirim" listesini göster, kişisel bilgi paylaşmam
 
 ## Neler yapabilirim
 
+- Daha önce aldığın bir dersin muafiyet şartlarını sağlayıp sağlamadığını mevzuata göre kontrol etmek
 - Paketteki mevzuat maddelerini aynen göstermek ve sade dille açıklamak
 
 ## Yönlendirme
@@ -43,26 +44,27 @@ Soruyu önce bu tabloda bir konuya yerleştir, sonra o satırdaki dosyaya bak. S
 
 | Soru konusu | Bakılacak dosya | Dayanak |
 |---|---|---|
-| Bir programın dersleri, saatleri, AKTS'leri | [AYZ](programlar/AYZ.md), [YZO](programlar/YZO.md), [BUV](programlar/BUV.md) | Ders bildirim formu |
-| Bir maddenin tam metni | [Eğitim-Öğretim Yönetmeliği](mevzuat/egitim-ogretim-yonetmeligi.md), [Muafiyet ve İntibak Yönergesi](mevzuat/muafiyet-intibak-yonergesi.md), [Yatay Geçiş Yönergesi](mevzuat/yatay-gecis-yonergesi.md) | — |
+| muaf olur muyum, ders saydırma, eşdeğer ders, saat, AKTS, açık öğretim, yurt dışı | [Muafiyet ölçütü](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/kurallar/muafiyet-olcutu.md) | Muafiyet ve İntibak Yönergesi md. 10; Muafiyet ve İntibak Yönergesi md. 22; Muafiyet ve İntibak Yönergesi md. 6; Muafiyet ve İntibak Yönergesi md. 7; Muafiyet ve İntibak Yönergesi md. 8; Muafiyet ve İntibak Yönergesi md. 9 |
+| Bir programın dersleri, saatleri, AKTS'leri | [AYZ](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/AYZ.md), [YZO](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/YZO.md), [BUV](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/BUV.md) | Ders bildirim formu |
+| Bir maddenin tam metni | [Eğitim-Öğretim Yönetmeliği](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/egitim-ogretim-yonetmeligi.md), [Muafiyet ve İntibak Yönergesi](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/muafiyet-intibak-yonergesi.md), [Yatay Geçiş Yönergesi](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/yatay-gecis-yonergesi.md) | — |
 | Paketteki konuların dışındaki her şey | Kural 3: "Bu konu bilgi paketinde yok." | — |
 
 ## Dosyalar
 
-- [Paketin tamamı tek dosyada](llms-full.txt): Bu dosya ve aşağıdaki dosyaların hepsi. Bağlantıları tek tek açamayan yapay zekâlar için.
+- [Paketin tamamı tek dosyada](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/llms-full.txt): Bu dosya ve aşağıdaki dosyaların hepsi. Bağlantıları tek tek açamayan yapay zekâlar için.
 
 ### Kural kartları
 
-- (henüz onaylı kart yok)
+- [Muafiyet ölçütü](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/kurallar/muafiyet-olcutu.md): 12 kural
 
 ### Mevzuat (tam metin)
 
-- [ATÜ Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği](mevzuat/egitim-ogretim-yonetmeligi.md): 38 madde. Resmî metin: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=44944&MevzuatTur=8&MevzuatTertip=5
-- [ATÜ Önlisans ve Lisans Muafiyet ve İntibak Yönergesi](mevzuat/muafiyet-intibak-yonergesi.md): 27 madde. Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/155855
-- [ATÜ Yatay Geçiş Yönergesi](mevzuat/yatay-gecis-yonergesi.md): 18 madde. Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/202940
+- [ATÜ Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/egitim-ogretim-yonetmeligi.md): 38 madde. Resmî metin: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=44944&MevzuatTur=8&MevzuatTertip=5
+- [ATÜ Önlisans ve Lisans Muafiyet ve İntibak Yönergesi](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/muafiyet-intibak-yonergesi.md): 27 madde. Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/155855
+- [ATÜ Yatay Geçiş Yönergesi](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/mevzuat/yatay-gecis-yonergesi.md): 18 madde. Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/202940
 
 ### Programlar
 
-- [AYZ – Arka-Yüz Yazılım Geliştirme](programlar/AYZ.md): 91 ders
-- [YZO – Yapay Zekâ Operatörlüğü](programlar/YZO.md): 91 ders
-- [BUV – Büyük Veri Analistliği](programlar/BUV.md): 91 ders
+- [AYZ – Arka-Yüz Yazılım Geliştirme](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/AYZ.md): 91 ders
+- [YZO – Yapay Zekâ Operatörlüğü](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/YZO.md): 91 ders
+- [BUV – Büyük Veri Analistliği](https://raw.githubusercontent.com/FurkanSay/BTMYO_YZ_Bilgi_Paketi/main/programlar/BUV.md): 91 ders
