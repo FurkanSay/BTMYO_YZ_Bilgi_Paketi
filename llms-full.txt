@@ -1,0 +1,1338 @@
+# ATÜ BTMYO Muafiyet ve Yatay Geçiş Bilgi Paketi
+
+> Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi, Bilişim Teknolojileri Meslek Yüksekokulu ön lisans öğrencilerinin muafiyet, intibak ve yatay geçiş sorularını kendi yapay zekâ asistanlarıyla mevzuata dayanarak cevaplayabilmesi için hazırlanmış bilgi paketi. Sürüm: 2026-10-22 (2026-2027 Güz). Bilgilendirme amaçlıdır; kararı Yönetim Kurulu verir.
+
+## Yapay zekâ için talimatlar
+
+Bu bölüm, bu paketi bir öğrencinin isteğiyle okuyan yapay zekâ asistanları içindir.
+
+**Rolün:** Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi, Bilişim Teknolojileri Meslek Yüksekokulu ön lisans öğrencilerine muafiyet, intibak ve yatay geçiş konusunda yalnız mevzuata dayanarak bilgi veren asistansın.
+
+### Kurallar
+
+1. Yalnız bu paketteki metinlere dayan. Genel bilgini ya da başka üniversitelerin kurallarını kullanma.
+2. Yalnız mevzuatta açıkça yazan hükümleri söyle. Mevzuatta yazmayan bir hak, istisna ya da kolaylık sorulursa "Mevzuatta böyle bir hüküm yok." de. "Komisyon değerlendirebilir", "belki kabul edilir" gibi açık uçlu ifadeler kullanma; tahmin yürütme.
+3. Paketin konuları dışındaki bir soru gelirse "Bu konu bilgi paketinde yok; bölüm sekreterliğine danış." de.
+4. Her hükmün kaynağını yaz, örneğin "(Muafiyet ve İntibak Yönergesi md. 7)".
+5. İki hüküm birbirinden farklıysa ikisini de madde numarasıyla aynen aktar; hangisinin uygulanacağı konusunda yorum yapma.
+6. Ad, TC kimlik numarası, öğrenci numarası gibi kişisel bilgi isteme. Öğrenci paylaşırsa cevabında tekrarlama ve paylaşmamasını hatırlat.
+7. "Muafsın" ya da "kabul edilirsin" deme. Her değerlendirmenin sonuna şunu ekle: "Bu, mevzuata göre bir ön kontroldür. Başvurun Muafiyet ve İntibak Komisyonunca sonuçlandırılır ve Yönetim Kurulunca karara bağlanır (Muafiyet ve İntibak Yönergesi md. 16)."
+8. Türkçe, sade ve kısa yaz.
+
+### İlk mesajın
+
+Kendini tanıt, "Neler yapabilirim" listesini göster, kişisel bilgi paylaşmaması gerektiğini hatırlat ve öğrencinin seçimini bekle.
+
+### Ders muafiyeti ön kontrolü
+
+1. Öğrenciden şunları iste: kayıtlı olduğu ATÜ programı; her ders için ders adı, haftalık teorik ve uygulama saati, AKTS, harf notu; dersi aldığı yer (Türkiye'de bir üniversite, yurt dışında bir üniversite, açık öğretim ya da uzaktan eğitim programı) ve dersi hangi ATÜ dersine saydırmak istediği. Hangi ATÜ dersine saydıracağını bilmiyorsa programın ders listesini göster ve seçmesini iste; eşleştirmeyi sen yapma.
+2. "Muafiyet ölçütü" ve "Not ve not dönüşümü" kural kartlarındaki şartları sırayla uygula: dersin alındığı yer, not, saat (saat bilgisi yoksa AKTS).
+3. ATÜ dersinin saatini ve AKTS'sini programlar/ klasöründeki ders listesinden al.
+4. Sonuç yalnız iki türlüdür: "Mevzuattaki şartları sağlıyor görünüyor." ya da "Mevzuattaki şartları sağlamıyor:" ve ardından sağlanmayan şart ile maddesi.
+5. Ders içeriğinin uyumlu olması da şarttır (Muafiyet ve İntibak Yönergesi md. 7). İçeriği sen karşılaştırma; öğrenciye başvurusuna onaylı ders içeriğini eklemesi gerektiğini söyle (md. 5).
+6. Sonucu tablo olarak ver: Senin dersin | ATÜ dersi | Saat / AKTS | Not | Sonuç | Dayanak. Tablonun altına şartları sağlayan ATÜ derslerinin AKTS toplamını ve "İntibak" kartına göre hangi sınıfa intibak edileceğini yaz.
+7. Ders, paketteki ders listelerinde yoksa "Bu ders paketteki ders listelerinde yok." de.
+
+## Neler yapabilirim
+
+- Paketteki mevzuat maddelerini aynen göstermek ve sade dille açıklamak
+
+## Yönlendirme
+
+Soruyu önce bu tabloda bir konuya yerleştir, sonra o satırdaki dosyaya bak. Soru birden fazla konuya giriyorsa hepsine bak.
+
+| Soru konusu | Bakılacak dosya | Dayanak |
+|---|---|---|
+| Bir programın dersleri, saatleri, AKTS'leri | [AYZ](programlar/AYZ.md), [YZO](programlar/YZO.md), [BUV](programlar/BUV.md) | Ders bildirim formu |
+| Bir maddenin tam metni | [Eğitim-Öğretim Yönetmeliği](mevzuat/egitim-ogretim-yonetmeligi.md), [Muafiyet ve İntibak Yönergesi](mevzuat/muafiyet-intibak-yonergesi.md), [Yatay Geçiş Yönergesi](mevzuat/yatay-gecis-yonergesi.md) | — |
+| Paketteki konuların dışındaki her şey | Kural 3: "Bu konu bilgi paketinde yok." | — |
+
+## Dosyalar
+
+- [Paketin tamamı tek dosyada](llms-full.txt): Bu dosya ve aşağıdaki dosyaların hepsi. Bağlantıları tek tek açamayan yapay zekâlar için.
+
+### Kural kartları
+
+- (henüz onaylı kart yok)
+
+### Mevzuat (tam metin)
+
+- [ATÜ Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği](mevzuat/egitim-ogretim-yonetmeligi.md): 38 madde. Resmî metin: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=44944&MevzuatTur=8&MevzuatTertip=5
+- [ATÜ Önlisans ve Lisans Muafiyet ve İntibak Yönergesi](mevzuat/muafiyet-intibak-yonergesi.md): 27 madde. Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/155855
+- [ATÜ Yatay Geçiş Yönergesi](mevzuat/yatay-gecis-yonergesi.md): 18 madde. Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/202940
+
+### Programlar
+
+- [AYZ – Arka-Yüz Yazılım Geliştirme](programlar/AYZ.md): 91 ders
+- [YZO – Yapay Zekâ Operatörlüğü](programlar/YZO.md): 91 ders
+- [BUV – Büyük Veri Analistliği](programlar/BUV.md): 91 ders
+
+
+---
+<!-- dosya: mevzuat/egitim-ogretim-yonetmeligi.md -->
+
+---
+ad: ATÜ Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği
+tur: Yönetmelik
+resmi_metin: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=44944&MevzuatTur=8&MevzuatTertip=5
+madde_sayisi: 38
+metin_cikarma: 2026-10-22 (resmî PDF'ten, yapay zekâ kullanılmadan)
+goz_kontrolu: yapılmadı
+---
+
+# ATÜ Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği
+
+> Resmî metin: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=44944&MevzuatTur=8&MevzuatTertip=5. Bu metin resmî PDF'ten çıkarılmıştır. Şüphede resmî metin esastır.
+
+## BİRİNCİ BÖLÜM – Başlangıç Hükümleri
+
+<a id="madde-1"></a>
+### Madde 1 – Amaç
+
+(1) Bu Yönetmeliğin amacı, Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi fakülte, yüksekokul ve meslek yüksekokullarındaki kayıtlar, eğitim-öğretim, sınav ve değerlendirmelerine ilişkin usul ve esasları düzenlemektir.
+
+<a id="madde-2"></a>
+### Madde 2 – Kapsam
+
+(1) Bu Yönetmelik, Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi bünyesindeki fakülteler, yüksekokullar ve meslek yüksekokullarında yürütülen kayıtlara, eğitim-öğretim, sınav ve değerlendirmelerine ilişkin hükümleri kapsar.
+
+<a id="madde-3"></a>
+### Madde 3 – Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 44 üncü maddelerine dayanılarak hazırlanmıştır.
+
+<a id="madde-4"></a>
+### Madde 4 – Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+
+b) Birim: Üniversitenin ilgili fakülte, yüksekokul ya da meslek yüksekokulunu,
+
+c) DNO: Dönem not ortalamasını,
+
+ç) GNO: Genel not ortalamasını,
+
+d) İlgili kurul: İlgili fakülte, yüksekokul ve meslek yüksekokul kurulunu,
+
+e) İlgili yönetim kurulu: İlgili fakülte, yüksekokul ya da meslek yüksekokulu yönetim kurulunu,
+
+f) Öğrenci: Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesinin ön lisans/lisans programlarına kayıtlı öğrenciyi,
+
+g) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+
+ğ) Rektör: Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Rektörünü,
+
+h) Rektörlük: Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Rektörlüğünü,
+
+ı) Senato: Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Senatosunu,
+
+i) Üniversite: Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesini,
+
+j) YÖK: Yükseköğretim Kurulunu, ifade eder.
+
+## İKİNCİ BÖLÜM – Kayıtlara İlişkin Esaslar
+
+<a id="madde-5"></a>
+### Madde 5 – Kayıtlar
+
+(1) Üniversiteye kayıt hakkı kazanan adayların kayıtları, YÖK ve Rektörlük tarafından belirlenen esaslara uygun olarak adayın bizzat kendisi tarafından yapılır. Ancak haklı ve geçerli mazereti olanların kayıtları, noter aracılığıyla vekâlet verdiği kişi tarafından yapılabilir. Adaylar ÖSYM ve YÖK tarafından belirlenen esaslar uyarınca kaydını e-Devlet üzerinden de yapabilirler. Süresi içinde kaydını yaptırmayanlar Üniversiteye kayıt yaptırma hakkını kaybederler.
+
+(2) Yabancı uyruklu öğrenciler ile ortaöğretiminin tamamını yurt dışında tamamlayan öğrencilerin başvuru, kabul ve kayıt işlemleri YÖK tarafından belirlenen usul ve esaslar çerçevesinde Senato tarafından belirlenen esaslara göre yürütülür.
+
+(3) Üniversiteye kesin kayıt yaptıran öğrenciye, Senato tarafından belirlenen usul ve esaslara göre bir akademik danışman atanır ve öğrenci kimlik kartı verilir.
+
+<a id="madde-6"></a>
+### Madde 6 – Yatay geçişler
+
+(1) Üniversite içinden veya dışından Üniversite fakültelerine, yüksekokullarına veya meslek yüksekokullarına yapılacak yatay geçişler, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato tarafından belirlenen esaslara göre yürütülür.
+
+<a id="madde-7"></a>
+### Madde 7 – Dikey geçişler
+
+(1) 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümlerine göre lisans öğrenimine başlama hakkı elde eden öğrencilerin, ön lisans eğitimi sırasında almış oldukları derslerin eşdeğerliği ve intibakları Senato tarafından belirlenen esaslara göre yürütülür.
+
+<a id="madde-8"></a>
+### Madde 8 – Ders muafiyeti
+
+(1) Üniversiteye kayıt yaptıran öğrenciler, daha önce öğrenim gördüğü yükseköğretim kurumunda başarılı oldukları dersler için muafiyet talebinde bulunabilirler. Muafiyet talebi Senato tarafından belirlenen esaslara göre yürütülür.
+
+<a id="madde-9"></a>
+### Madde 9 – Kayıt yenileme
+
+(1) Öğrenciler, Üniversitenin akademik takviminde belirtilen ders kayıt tarihlerinde ilgili mevzuat hükümlerine göre öğrenci yükümlülüğü bulunuyorsa katkı payını veya öğrenim ücretini ödeyerek kayıtlarını yenilemek zorundadırlar. Kayıt yenileme işlemlerinin sorumluluğu öğrencilere aittir. Belirtilen sürede, haklı ve geçerli nedenleri olmadan kayıtlarını yenilemeyenler, o dönemin derslerini alamaz ve bu derslerin sınavlarına giremezler. Akademik takvimde belirtilen süre içerisinde ders kaydını yaptıramayan öğrenciler, haklı ve geçerli sayılabilecek mazeretleri olması durumunda bağlı olduğu birime başvururlar. Mazeretlerinin ilgili yönetim kurulunca kabul edilmesi hâlinde akademik takvimde belirtilen ek süre içerisinde kayıt yenilemek zorundadırlar.
+
+(2) Kayıt yenilenmeyen yarıyıl, azami öğretim süresinden sayılır.
+
+(3) Diploma programlarının bir yıl süreli yabancı dil hazırlık sınıfında geçirilen süre hariç olmak üzere iki yıllık ön lisans ve dört, beş ve altı yıllık lisans programlarından bu süreler sonunda mezun olamayan öğrenciler, ilgili döneme ait öngörülen katkı payı ve öğrenim ücreti ödeme yükümlülüklerini yerine getirerek öğrenimlerine devam etmek için kayıt yaptırabilirler.
+
+## ÜÇÜNCÜ BÖLÜM – Eğitim-Öğretime İlişkin Esaslar
+
+<a id="madde-10"></a>
+### Madde 10 – Öğretim dili
+
+(1) 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine göre yabancı dilde öğretim yapılması uygun görülen programlarda eğitim-öğretim ilgili yabancı dilde yapılır.
+
+(2) Kayıtları yapılan yabancı uyruklu öğrencilerin, Türkçe yeterlik düzeyleri için uyulacak esaslar Senato tarafından belirlenen esaslara göre yürütülür.
+
+(3) Yabancı dille eğitim-öğretim yapan programlarda Atatürk İlkeleri ve İnkılap Tarihi ile Türk Dili gibi ortak zorunlu dersler Türkçe verilir.
+
+<a id="madde-11"></a>
+### Madde 11 – Yabancı dil hazırlık sınıfı ve yabancı dil muafiyeti
+
+(1) Üniversiteye yerleştirilen öğrencilerin İngilizce yeterlikleri Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine göre hazırlanan ve Senato tarafından belirlenen esaslara göre belirlenir.
+
+<a id="madde-12"></a>
+### Madde 12 – Eğitim-öğretim süresi
+
+(1) Öğrenciler, bir yıl süreli yabancı dil hazırlık sınıfı hariç kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın öğrenim süresi iki yıl olan ön lisans programlarını azami dört yıl, öğrenim süresi dört yıl olan lisans programlarını azami yedi yıl, öğrenim süresi beş yıl olan lisans programlarını azami sekiz yıl, öğrenim süresi altı yıl olan lisans programlarını azami dokuz yıl içinde tamamlamak zorundadırlar. Hazırlık eğitim süresi azami iki yıldır.
+
+(2) Azami öğrenim süresi sonunda mezun olamayan öğrencilere 2547 sayılı Kanunun 44 üncü maddesi hükümleri ve Senato tarafından belirlenen esaslar uygulanır.
+
+<a id="madde-13"></a>
+### Madde 13 – Eğitim-öğretim yarıyılları ve süreleri
+
+(1) Bir örgün eğitim-öğretim yılı, her biri en az on dört hafta (yetmiş iş günü) olmak üzere iki yarıyıldan oluşur. Yarıyıl veya yıl sonu sınav günleri, bu sürenin dışındadır. Zorunlu hallerde sınavlar ve dersler, cumartesi ve/veya pazar günleri de yapılabilir.
+
+(2) Akademik takvimde yaz okulu programlarına yer verilebilir. Yaz öğretimi Senato tarafından belirlenen esaslara göre yürütülür.
+
+<a id="madde-14"></a>
+### Madde 14 – Eğitim-öğretim programları
+
+(1) Üniversiteye bağlı fakülte, yüksekokul ve meslek yüksekokullarında ders alma ve ders geçme esasına dayalı AKTS kredi sistemi uygulanır. Alınan derslerin AKTS kredi değerleri, öğrencilerin çalışma yükleri hesaplanarak belirlenir. Öğretim programları ilgili birim kurulunun önerisi ile yarıyıl esasına göre düzenlenir ve Senatonun onayı ile kesinleşir. Gerekmesi halinde öğretim programları Senato tarafından belirlenen usul ve esaslara göre güncellenir.
+
+(2) Bir eğitim-öğretim yılında ön lisans ve lisans programları için ders ve uygulama kredileri toplamı yıllık 60 AKTS kredisi olmak zorundadır.
+
+(3) Uygulamalı eğitim dersleri, 17/6/2021 tarihli ve 31514 sayılı Resmî Gazete’de yayımlanan Yükseköğretimde Uygulamalı Eğitimler Çerçeve Yönetmeliği hükümlerine ve Senato tarafından belirlenen esaslara göre yürütülür.
+
+<a id="madde-15"></a>
+### Madde 15 – Çift ana dal ve yan dal programları
+
+(1) Çift ana dal ve yan dal programları, Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri, YÖK kararları ve Senato tarafından belirlenen esaslar çerçevesinde yürütülür.
+
+<a id="madde-16"></a>
+### Madde 16 – Değişim programları ve özel öğrenciler
+
+(1) Üniversite ile yurt içindeki ve yurt dışındaki yükseköğretim kurumları arasında yapılacak anlaşmalarla öğrenci değişim programları uygulanabilir. Bu programlar Senato tarafından belirlenen esaslara göre yürütülür.
+
+(2) Özel öğrencilerle ilgili esaslar Senato tarafından belirlenir.
+
+<a id="madde-17"></a>
+### Madde 17 – Uluslararası ortak diploma programı
+
+(1) Uluslararası anlaşmalar ve ilgili mevzuat çerçevesinde uluslararası ortak diploma programları düzenlenebilir. Bu programlara ilişkin esaslar Senato tarafından belirlenir.
+
+## DÖRDÜNCÜ BÖLÜM – Ders Türleri, Ders Kayıt İşlemleri, Devam Zorunluluğu, Kayıt Dondurma ve İzinli Sayılma
+
+<a id="madde-18"></a>
+### Madde 18 – Ders türleri
+
+(1) Öğretim programlarında yer alan ders türleri; zorunlu ve seçmeli derslerdir.
+
+a) Zorunlu dersler, öğretim programlarında yer alan ve öğrencinin mezun olabilmesi için mutlaka alıp başarılı olması gereken derslerdir.
+
+b) Seçmeli dersler, alan içi seçmeli ve alan dışı seçmeli dersler olmak üzere öğrencinin önerilen dersler arasından seçerek alabileceği derslerdir.
+
+(2) Bir derse kaydolmak için bazı derslerden başarılı olma koşulu aranabilir. Bir derse kayıt olunabilmesi için başarılmış olma koşulu aranan dersler, ön koşul dersleri, kayıt olunabilmesi ön koşul derslerinin başarılmasına bağlı olan ders, ön koşullu ders olarak tanımlanır. Ön koşul dersleri ve ön koşullu dersler eğitim-öğretim programlarında gösterilir.
+
+<a id="madde-19"></a>
+### Madde 19 – Ders kayıt işlemleri
+
+(1) Öğrenciler, her eğitim-öğretim yarıyılının başlangıcında akademik takvimde belirtilen süre içerisinde akademik danışmanının olumlu görüşünü de alarak ders kaydını yaptırırlar.
+
+(2) Ders geçme sistemi uygulanan bir programın birinci sınıfında öğrenime başlayan öğrenciler, kayıt oldukları yarıyıla ait tüm dersleri almakla yükümlüdürler.
+
+(3) Öğrenciler başarısız oldukları, devam şartını yerine getiremedikleri veya hiç almadıkları dersleri öncelikle almak zorundadırlar. Ancak bu derslerin farklı yarıyıllara ait olması halinde, önce alt yarıyıl dersleri ardından bulundukları yarıyıla ait dersler alınır.
+
+(4) Bir yarıyılda alınabilecek ders yükü toplamı 45 AKTS’yi geçemez.
+
+(5) Öğrenciler alt yarıyıllardan almadıkları tüm dersleri almak koşuluyla bulundukları yarıyıllardan ders alabilirler.
+
+(6) Öğrenciler başarısız oldukları bir seçmeli ders yerine farklı bir seçmeli ders alabilirler.
+
+(7) Öğrencilerin üst yarıyıldan ders alabilmesi için bulunduğu yarıyıl/yıla kadar tüm dersleri alıp başarmış olması ve en az 3,00 GNO’ya sahip olması gerekir. Üst yarıyıl/yıldan ders alan öğrencilerin, aldıkları derslerin başarı notları GNO hesaplamasına katılır.
+
+(8) Öğrenciler akademik takvimde belirtilen ders ekleme-bırakma tarihleri içerisinde akademik danışmanının kontrolünde ders ekleme, bırakma ve şube değişikliği yaparlar.
+
+(9) Öğrenciler kayıtlı oldukları bir dersten akademik takvimde belirtilen tarihlerde danışmanının onayı ile çekilebilirler. Öğrenciler, çekildiği dersi almamış sayılırlar. Bu ders, not çizelgesinde W harfi ile gösterilir ve not ortalaması hesabına katılmaz. Dersten çekilme şartları aşağıda belirtilmiştir. Öğrenciler;
+
+a) Öğretim programının ilk iki yarıyılındaki derslerden çekilemezler.
+
+b) İlk defa aldıkları bir dersten çekilebilirler.
+
+c) Daha önce çekildikleri bir dersten tekrar çekilemezler.
+
+ç) Bir yarıyıl içinde en çok bir dersten; kayıtlı oldukları program süresince ön lisans programlarında en fazla iki, lisans programlarında en fazla dört dersten çekilebilirler.
+
+(10) Seçmeli derslerin açılabilmesi için gerekli öğrenci sayısı Senato tarafından belirlenir. Zorunlu veya yeter sayıda öğrencinin kaydolmasıyla açılan seçmeli ders ancak dersten çekilme işlemleri sonucunda derse kayıtlı öğrenci bulunmaması halinde kapatılır.
+
+<a id="madde-20"></a>
+### Madde 20 – Devam zorunluluğu
+
+(1) Öğrencilerin teorik derslere en az %70, uygulamalara en az %80 oranında devamları zorunludur. Sağlık raporu derse devam yükümlülüğünü ortadan kaldırmaz.
+
+(2) Tekrarlanan teorik derslerde önceki yarıyıl/yıllarda devam koşulunun yerine getirilmiş olması halinde devam zorunluluğu aranmaz. Uygulamalı/uygulaması olan derslerin tekrar alınması durumunda devam zorunluluğu aranıp aranmayacağı eğitim-öğretim programlarında belirtilir.
+
+<a id="madde-21"></a>
+### Madde 21 – Kayıt dondurma ve izinli sayılma
+
+(1) Senato tarafından belirlenmiş esaslara göre ilgili yönetim kurulunca kabul edilen haklı ve geçerli bir nedenle öğrenimine ara vermek durumunda olan öğrenciler, o yarıyıl/yıl izinli sayılırlar. İzinli sayılmaya ilişkin iş ve işlemler Senato tarafından belirlenen esaslara göre yürütülür.
+
+(2) Üniversitenin bilimsel, kültürel, sosyal ve sportif etkinlikleri ile Türkiye’yi ulusal ve uluslararası seviyede yurt içi veya yurt dışında temsil eden öğrenciler için devam koşulları aranmaz. Bu durumdaki öğrencilerin ara sınav ve/veya yarıyıl/yıl sonu sınav hakları saklıdır.
+
+(3) Öğrenciler Senato tarafından belirlenmiş esaslara göre ilgili yönetim kurulunca kabul edilen haklı ve geçerli nedenlerle bir defada en çok iki yarıyıl, öğrenim süresi boyunca toplam dört yarıyıl kayıt dondurabilirler. Ancak rahatsızlığı ve tedavi sürecinin devam etmesi nedeniyle kayıt dondurma talebinde bulunan öğrenciler ile hükümlü öğrenciler, mazeretleri ilgili yönetim kurulu tarafından değerlendirilerek azami öğretim süresinden sayılmadan dört yarıyıldan fazla kayıt dondurabilirler.
+
+(4) Haklı ve geçerli nedenlerle öğrenimine ara vermek durumunda olan öğrenciler, akademik takvimde belirtilen süre içinde, bu nedenlerin daha sonra ortaya çıkması halinde ise beş iş günü içinde ilgili birime başvuruda bulunurlar.
+
+## BEŞİNCİ BÖLÜM – Sınavlar ve Değerlendirme
+
+<a id="madde-22"></a>
+### Madde 22 – Sınavlar ve sınav dönemleri
+
+(1) Sınavlar, ara sınav, mazeret sınavı, yarıyıl/yıl sonu sınavı, bütünleme sınavı, üç ders sınavı ve tek ders sınavıdır. Bu sınavlar aşağıda belirtilmiştir:
+
+a) Ara sınav: Derslerin verildiği yarıyıl/yıl içinde yapılan sınav veya sınavlardır.
+
+b) Mazeret sınavı: Senato tarafından belirlenmiş esaslara göre ilgili yönetim kurulunca kabul edilen haklı ve geçerli bir nedenle ara sınavlara giremeyen öğrencilere bir kez yapılan sınavdır.
+
+c) Yarıyıl/yıl sonu sınavı: Derslerin verildiği yarıyıl/yıl sonunda yapılan sınavdır. Yarıyıl/yıl sonu sınav programları, ilgili birimler tarafından hazırlanır ve sınavlardan en az iki hafta önce ilan edilir.
+
+ç) Bütünleme sınavı: Derslerin verildiği yarıyıl sonunda yapılan yarıyıl/yıl sonu sınavlarından sonra başarısız olunan veya sınava girme hakkı olduğu halde girilmeyen dersler için açılan sınavlardır.
+
+d) Üç ders sınavı: Devam koşulunu yerine getirmiş olmak kaydıyla, mezuniyet koşullarını en çok üç dersin sınavına bağlı olarak sağlayabilecek durumdaki öğrencilere yapılan sınavlardır. Yarıyıl/yıl sonu sınavı uygulamalı olan dersler (tasarım, stüdyo, laboratuvar, bitirme projesi, staj, uygulamalı eğitim ve benzeri) ile yarıyıl/yıl sonu notu proje tabanlı olarak değerlendirilen dersler için bu hak verilmez. Öğrenciler akademik takvimde belirtilen tarihlerde dilekçe vermek şartıyla üç ders sınavına katılabilirler. Bu dersin başarı notunun belirlenmesinde dönem içinde yapılan ara sınav ve benzeri değerlendirmeler dikkate alınmaz.
+
+e) Tek ders sınavı: Devam koşulunu yerine getirmiş olmak kaydıyla, mezuniyet koşullarını sadece bir dersin sınavına bağlı olarak sağlayabilecek durumdaki öğrencilere yapılan sınavdır. Yarıyıl/yıl sonu sınavı uygulamalı olan dersler (tasarım, stüdyo, laboratuvar, bitirme projesi, staj, uygulamalı eğitim ve benzeri) ile yarıyıl/yıl sonu notu proje tabanlı olarak değerlendirilen dersler için bu hak verilmez. Öğrenciler akademik takvimde belirtilen tarihlerde dilekçe vermek şartıyla tek ders sınavına katılabilirler. Bu dersin başarı notunun belirlenmesinde dönem içinde yapılan ara sınav ve benzeri değerlendirmeler dikkate alınmaz.
+
+(2) Ara sınav, yarıyıl/yıl sonu sınavı, bütünleme sınavı, üç ders ve tek ders sınav tarihleri akademik takvim ile düzenlenir.
+
+(3) Staj ve uygulama sonunda sınav yapma zorunluluğu olan birimlerde staj ve uygulama sınavlarının nasıl yapılacağı, ilgili kurullar tarafından belirlenir.
+
+(4) Sınavlar; yazılı, sözlü, hem yazılı hem sözlü ve/veya uygulamalı olarak yapılabilir. Sınavların nasıl yapılacağı, dersi veren öğretim elemanı tarafından yarıyıl/yıl başında öğrencilere duyurulur.
+
+(5) Sınavlar, o dersi vermekle görevli öğretim elemanları tarafından yapılır. Görevli öğretim elemanının sınav döneminde Üniversitede bulunmaması halinde sınavın kim tarafından yapılacağı ve değerlendirileceği ilgili birim yönetim kurulunca kararlaştırılır.
+
+<a id="madde-23"></a>
+### Madde 23 – Ara sınavların düzenlenmesi
+
+(1) Her ders için en az bir ara sınav yapılır. Ara sınavların, hangi tarihlerde ve nerede yapılacağı, her yarıyılın ilk dört haftası içinde ilgili birim tarafından ilan edilir.
+
+(2) Ara sınav tarihine kadar derse devam koşulunu sağlamadığı kesinleşen öğrenciler, ara sınava giremezler.
+
+(3) Aynı günde, eğitim-öğretim programının bir yarıyılında/yılında alınan derslerden en çok ikisinin ara sınavı yapılabilir. Bu durum tekrar edilen derslerin ara sınavları için geçerli değildir.
+
+<a id="madde-24"></a>
+### Madde 24 – Ara sınav sonuçlarının ilanı
+
+(1) Ara sınav sonuçları, en geç bir sonraki sınav tarihinden bir hafta öncesine kadar öğrenci bilgi sisteminde ilan edilir.
+
+(2) Mazeret sınavları eğitim-öğretim dönemi bitmeden yarıyıl/yıl sonu sınavından en geç bir hafta önce yapılarak öğrenci bilgi sisteminde ilan edilir.
+
+<a id="madde-25"></a>
+### Madde 25 – Yarıyıl/yıl sonu ve bütünleme sınavlarına katılma şartları
+
+(1) Öğrencinin bir dersin yarıyıl/yıl sonu ve bütünleme sınavlarına katılabilmesi için;
+
+a) O derse kaydını yaptırmış olması,
+
+b) Teorik derslerin %70’ine katılması,
+
+c) Uygulamalı derslerde uygulamaların %80’ine katılması,
+
+ç) Uygulamalarda başarılı olması ve varsa verilen projeleri tamamlamış olması, zorunludur.
+
+<a id="madde-26"></a>
+### Madde 26 – Değerlendirme ve başarı notları
+
+(1) Başarı notu, öğrencinin bir dersine ilişkin yarıyıl/yıl içi değerlendirmesi ile yarıyıl/yıl sonu sınav notundan hesaplanan ağırlıklı notudur. Bu değerlendirmede yarıyıl/yıl içi ve yarıyıl/yıl sonu faaliyetlerinin başarı notu üzerindeki etkisi, dersi veren öğretim elemanı tarafından belirlenerek her yarıyılın/yılın başında ilan edilir.
+
+(2) Not değerlendirme faaliyetleri 100 tam puan üzerinden hesaplanır.
+
+(3) Sınavlarda kopya çeken, kopya girişiminde bulunan veya kopyaya yardım eden öğrenci ile sınav kağıtlarının incelenmesi sırasında kopya çektiği ya da yardım ettiği tespit edilen öğrenci, o sınavlardan 0 (sıfır) notu almış olarak değerlendirilir ve hakkında 2547 sayılı Kanunun 54 üncü maddesi hükümlerine göre işlem yapılır.
+
+(4) Başarı notu Senato tarafından belirlenen esaslara uygun olarak harf notuna dönüştürülür.
+
+(5) Harf notlarının katsayı, puan ve statü tablosu ile statü açıklamaları aşağıda verilmiştir:
+
+| Harf notu | Başarı notu aralığı | Başarı katsayısı | Statü |
+|---|---|---|---|
+| AA | 90-100 | 4,00 | Başarılı |
+| BA | 80-89 | 3,50 | Başarılı |
+| BB | 75-79 | 3,00 | Başarılı |
+| CB | 70-74 | 2,50 | Başarılı |
+| CC | 60-69 | 2,00 | Başarılı |
+| DC | 55-59 | 1,50 | Koşullu Başarılı |
+| DD | 50-54 | 1,00 | Koşullu Başarılı |
+| FD | 40-49 | 0,50 | Başarısız |
+| FF | 0-39 | 0,00 | Başarısız |
+| NA | - | 0,00 | Devamsız |
+| EX | - | - | Muaf |
+| W | - | - | Dersten çekilme |
+
+a) Bir dersten CC ve üzeri not almış olan bir öğrenci, o dersten başarılı olmuş sayılır.
+
+b) Bir dersten DD veya DC notu alan bir öğrenci, mezun olma aşamasında en az 2,00 GNO’yu sağlamış olmak koşuluyla o dersten başarılı olmuş sayılır.
+
+c) Derse devam yükümlülüklerini yerine getirmeyen öğrencilere NA notu verilir. NA notu, not ortalaması hesabında FF notu gibi işlem görür.
+
+ç) Öğrencilerin daha önce öğrenim gördüğü yükseköğretim kurumundan aldığı ve ilgili birim yönetim kurulunca eşdeğer kabul edilen ders/derslerden harf notu karşılığı olmayanlara EX notu verilir.
+
+d) Bir dersten çekilen öğrencilere W notu verilir.
+
+<a id="madde-27"></a>
+### Madde 27 – Not ortalamaları
+
+(1) Öğrencilerin başarı durumları, bitirdikleri yarıyıl/yılda almış oldukları derslere ait DNO ve kayıtlı oldukları program süresince almış oldukları tüm dersler için GNO ile izlenir.
+
+(2) Bu ortalamalar hesaplanırken, derslerin başarı notu katsayıları ile bu derslere ait AKTS kredileri çarpılarak elde edilen çarpımlar toplanır ve bu toplam ortalamaya giren derslerin AKTS kredileri toplamına bölünür. Muaf olunan dersler ortalamaya dâhil edilmez. Bir öğrencinin mezun olabilmesi için kayıtlı olduğu eğitim-öğretim programındaki bütün çalışmalarından başarılı olması gerekir. Ortalamaların kayda geçmesinde, virgülden sonraki üçüncü hane beşten küçükse sıfıra azaltılır; beş veya beşten büyükse, ikinci hane bir artırılacak şekilde yuvarlanarak, iki hane esas alınır. Tekrar edilen derslerden en son alınan not GNO’ya katılır.
+
+<a id="madde-28"></a>
+### Madde 28 – Yarıyıl/Yıl onur ve yüksek onur öğrencileri
+
+(1) Bulundukları yarıyıl/yıl sonu itibarıyla bütün derslerini alıp başarmış ve disiplin cezası bulunmayan öğrencilerden, GNO’su 3,00-3,49 arasında olanlar yarıyıl/yıl onur öğrencisi; 3,50- 4,00 arasında olanlar yarıyıl/yıl yüksek onur öğrencisi sayılır. Bu başarı, öğrencinin not belgesinde belirtilir.
+
+<a id="madde-29"></a>
+### Madde 29 – Genel not ortalamasının yükseltilmesi
+
+(1) GNO’sunu yükseltmek isteyen öğrencilerden;
+
+a) GNO’su 2,00 ve üzeri olan öğrenci, daha önce aldığı ve başarılı olduğu dersleri o derslerin verildiği yarıyılda/yılda,
+
+b) GNO’su 2,00 altında olan öğrenci, daha önce aldığı ve koşullu başarılı olduğu dersleri o derslerin verildiği yarıyılda/yılda, tekrar alabilir.
+
+(2) Başarılı dersin tekrarında devam şartı aranmaz. Ancak uygulamalı dersler için öğrencilerin devam şartı dersin öğretim elemanı tarafından belirlenir ve ilan edilir.
+
+(3) GNO hesabında, tekrarlanan derste alınan en son not geçerlidir.
+
+(4) Öğrenciler muaf tutuldukları, intibak işlemi yapılmış derslerini tekrar edemezler.
+
+<a id="madde-30"></a>
+### Madde 30 – Sınav sonuçlarının ilanı ve sınav sonuçlarına itiraz
+
+(1) Yarıyıl/yıl sonu sınavı, bütünleme sınavı, üç ders sınavı ve tek ders sınavı sonuçları, sınavların bitiş tarihinden en geç bir hafta sonra öğrenci bilgi sistemi üzerinden ilan edilir.
+
+(2) Öğrenci sınav sonuçlarının ilanından itibaren beş iş günü içerisinde ilgili birime maddi hata nedeniyle yazılı olarak itiraz edebilir. Dersi veren öğretim elemanı tarafından sınav notunda maddi hata tespit edilmesi halinde, öğretim elemanının gerekçeli başvurusu ve ilgili yönetim kurulunun kararı ile dersin notu değiştirilir.
+
+(3) Öğretim elemanı tarafından sınav sonuçlarında maddi hata tespit edilmesi halinde, ilgili bölüm başkanlığına gerekçeli başvuru yapılır. Başvuru ilgili birimin yönetim kurulu tarafından karara bağlanır.
+
+## ALTINCI BÖLÜM – Mezuniyet ve Diploma, İlişik Kesme ve Değişim Programları
+
+<a id="madde-31"></a>
+### Madde 31 – Mezuniyet ve diploma
+
+(1) Bir öğrencinin mezun olabilmesi için kayıtlı olduğu eğitim-öğretim programındaki bütün çalışmalardan başarılı olması, lisans düzeyinde 240 AKTS, ön lisans düzeyinde 120 AKTS kredisini tamamlaması ve GNO’sunun en az 2,00 olması zorunludur.
+
+(2) Mezuniyet tarihi, mezuniyet hakkının elde edildiği sınav döneminin bitiminden sonraki ilk iş günüdür.
+
+(3) Öğrencilere Senato tarafından belirlenen esaslara göre diploma ve diploma eki verilir.
+
+(4) Derece ile mezun olan öğrenciler Senato tarafından belirlenen esaslara göre tespit edilir.
+
+<a id="madde-32"></a>
+### Madde 32 – İlişik kesme
+
+(1) Aşağıdaki durumlarda, ilgili yönetim kurulu kararıyla öğrencinin Üniversite ile ilişiği kesilir;
+
+a) İlgili mevzuat hükümlerine göre yükseköğretim kurumundan çıkarma cezası almış olmak.
+
+b) 2547 sayılı Kanunun 44 üncü maddesinin (c) fıkrasında belirtilen süreler ve/veya ek sınavlar sonunda mezun olamamak.
+
+(2) Üniversite Yönetim Kurulu kararı ve YÖK onayı ile dört yıl üst üste katkı payı veya öğrenim ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri kesilebilir.
+
+(3) Öğrencinin kaydının silinmesini yazılı olarak istemesi durumunda Üniversite ile ilişiği kesilir.
+
+## YEDİNCİ BÖLÜM – Çeşitli ve Son Hükümler
+
+<a id="madde-33"></a>
+### Madde 33 – Tebligat ve adres bildirme
+
+(1) Her türlü tebligat, öğrencinin Üniversiteye kayıt anında bildirdiği adrese posta yoluyla ve/veya öğrenciye Üniversite tarafından sağlanan kurumsal e-posta adresine ya da bildirdiği kişisel e-posta adresine ileti yoluyla ve/veya Üniversitenin internet sayfasında ilan edilmek suretiyle yapılır.
+
+(2) Öğrenci adres ve kişisel e-posta adresi değişikliklerini Üniversiteye bildirmekle ve Üniversite tarafından sağlanan kurumsal e-posta adresine gönderilen iletileri takip etmekle yükümlüdür. Değişikliğin bildirilmemesi halinde mevcut adrese yapılan tebligat geçerlidir.
+
+<a id="madde-34"></a>
+### Madde 34 – Disiplin işlemleri
+
+(1) Öğrencilerin disiplin iş ve işlemleri 2547 sayılı Kanunun 54 üncü maddesi hükümlerine göre yürütülür.
+
+<a id="madde-35"></a>
+### Madde 35 – Hüküm bulunmayan hâller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hâllerde 2547 sayılı Kanun ve ilgili mevzuat hükümleri uygulanır.
+
+<a id="madde-36"></a>
+### Madde 36 – Yürürlükten kaldırılan yönetmelik
+
+(1) 10/4/2017 tarihli ve 30034 sayılı Resmî Gazete’de yayımlanan Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği yürürlükten kaldırılmıştır.
+
+<a id="madde-37"></a>
+### Madde 37 – Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+<a id="madde-38"></a>
+### Madde 38 – Yürütme
+
+(1) Bu Yönetmelik hükümlerini Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Rektörü yürütür.
+
+
+---
+<!-- dosya: mevzuat/muafiyet-intibak-yonergesi.md -->
+
+---
+ad: ATÜ Önlisans ve Lisans Muafiyet ve İntibak Yönergesi
+tur: Yönerge
+resmi_metin: https://kms.kaysis.gov.tr/Home/Goster/155855
+madde_sayisi: 27
+metin_cikarma: 2026-10-22 (resmî PDF'ten, yapay zekâ kullanılmadan)
+goz_kontrolu: yapılmadı
+---
+
+# ATÜ Önlisans ve Lisans Muafiyet ve İntibak Yönergesi
+
+> Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/155855. Bu metin resmî PDF'ten çıkarılmıştır. Şüphede resmî metin esastır.
+
+## BİRİNCİ BÖLÜM – Amaç, Kapsam, Dayanak ve Tanımlar
+
+<a id="madde-1"></a>
+### Madde 1 – Amaç
+
+Bu yönergenin amacı, Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi'ne yeni kayıt yaptıran öğrencilerin daha önce Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi de dâhil olmak üzere herhangi bir Yükseköğretim Kurumu’ndan alarak başarılı oldukları derslerin muafiyet ve yarıyıl/yıl intibak esaslarını belirlemektir.
+
+<a id="madde-2"></a>
+### Madde 2 – Kapsam
+
+Bu yönerge, Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi'ne yatay/dikey geçiş ve yeni kayıt yaptıran lisans ve önlisans öğrencilerinin, daha önce alıp başarılı oldukları derslerden muafiyetleri ve intibaklarıyla ilgili esasları ve işlemleri kapsar.
+
+<a id="madde-3"></a>
+### Madde 3 – Dayanak
+
+Bu yönerge 2547 Sayılı Yükseköğretim Kanunu, Yükseköğretim Kurumları’nda Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yandal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ile Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Önlisans ve Lisans Eğitim-Öğretim Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.
+
+<a id="madde-4"></a>
+### Madde 4 – Tanımlar
+
+Bu yönergede geçen;
+
+a) AKTS Kredisi: Avrupa Kredi Transfer Sistemi (AKTS),
+
+b) Birim: Fakülte, Yüksekokul, Meslek Yüksekokulunu
+
+c) Birim Yönetim Kurulu: İlgili Birimin Yönetim Kurulunu,
+
+d) Not Dönüşüm Sistemi (NDS): Öğrencinin bir dersteki başarı notunun YÖK’ün dörtlük sistemine göre harfli başarı notuna çevrilerek başarısının değerlendirilmesini,
+
+e) GNO: Genel not ortalamasını,
+
+f) İntibak İşlemi: Üniversiteye kayıt hakkı kazanan öğrencilerin daha önce herhangi bir yükseköğretim kurumundan alıp başardıkları veya muaf sayıldıkları derslere göre devam edecekleri yarıyıl/yılı belirleme, ve geçiş yapılan programın müfredatına uyum sağlamaları amacıyla almaları gereken ders ve uygulamaların belirlenmesini içeren işlemler bütünüdür.
+
+g) Muafiyet ve İntibak Komisyonu: Bölüm Kurulu önerisi ve Birim Yönetim Kurulu onayı ile belirlenen üç öğretim elemanından oluşan komisyonu,
+
+h) Muafiyet: Daha önce alınmış ve başarılmış ders/derslerin yerine, ders saati ve içerik uyumuna göre müfredatta bulunan ders/derslerin denkliğinin kabul edilmesi durumunu,
+
+i) Rektör: Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Rektörü’nü,
+
+j) Senato: Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Senatosu’nu,
+
+k) Üniversite: Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi’ni,
+
+l) YÖK: Yükseköğretim Kurulu’nu ifade eder.
+
+## İKİNCİ BÖLÜM – Muafiyet /İntibak Başvuru
+
+<a id="madde-5"></a>
+### Madde 5
+
+(1) (a) Muafiyet talep edilecek tüm dersler için başvurular, öğrencinin üniversiteye kayıt yaptırdığı ilk yarıyılda, eğitim-öğretimin başladığı tarihten itibaren 15 (onbeş) gün içerisinde, ek yerleştirme veya dikey geçiş sınavına göre kayıt yaptıran öğrenciler kayıt tarihlerinin son gününü izleyen beş (5) iş günü içerisinde, hazırlık sınıfı olan programlarda öğrencilerin muafiyet işlemleri ön lisans ve lisans derslerinin başladığı dönemde ilgili birime yapılır. Süresi içinde yapılmayan başvurular kabul edilmez. (değişiklik 16.10.2019 tarih ve 26/1 sayılı Senato Kararı)
+
+(b) GNO ile Yatay Geçiş başvurusu yapan öğrencilerin ayrıca ders muafiyet başvurusu yapmaları gerekmeksizin, muafiyet işlemleri ilgili komisyonca doğrudan yapılarak alt yarıyıllardan almaları zorunlu olan dersler raporlarında belirtilir.
+
+(2) İleriki yarıyıllarda sadece eğitim-öğretim programlarına sonradan konulacak derslere ilişkin muafiyet talepleri yapılabilir. Bunun dışında, muafiyet talebi ya da yapılmış olan intibak işlemlerinin iptaline veya değişikliğine yönelik istemde bulunulmaz.
+
+(3) Yabancı dilde yeterlilik alamayarak hazırlık okuyan öğrenciler için, ilgili sınıfın başarılmasından sonraki yarıyılı/yılda 5. Maddenin (1) fıkrasındaki koşullar uygulanır.
+
+(4)-(a) Başvurular Adana Alparslan Türkeş Bilim Teknoloji Üniversitesi Kalite Yönetim Sisteminde yer alan “Ders Muafiyet Dilekçesi” kullanılarak yapılır. Öğrencilerin, başvuru dilekçelerinde alıp da başarılı oldukları derslerden hangilerinden muaf olmak istediklerini açıkça belirtmeleri gerekir.
+
+b) Başvuru dilekçesi ekine, daha önce öğrenim görülen Yükseköğretim Kurumu tarafından onaylanmış (mühürlü, kaşeli ve imzalı) not belgesi (transkript) ve onaylı ders içeriklerinin eklenmesi zorunludur. Söz konusu belgelerin fotokopi, faks, onaysız ve/veya eksik olması durumunda başvuru işleme alınmaz.
+
+<a id="madde-6"></a>
+### Madde 6 – Muafiyet işlemleri
+
+YÖK tarafından denkliği tanınmayan yurtdışındaki üniversitelerden alınan dersler için muafiyet ve intibak işlemleri yapılmaz
+
+<a id="madde-7"></a>
+### Madde 7
+
+Eşdeğer sayılması istenen bir dersin adının, eşdeğer sayılacak ders ile birebir aynı olması gerekmez. Muafiyeti istenen dersin zorunlu veya seçmeli ders olmasına bakılmaksızın, en az CC notu ile başarılı olmak şartıyla, ders içeriğinin ve ders saatlerinin uyumuna ve yeterliliğine göre birim tarafından karar verilir. Derslerin saat bilgisinin bulunmadığı hallerde derslerin AKTS kredileri dikkate alınır.
+
+<a id="madde-8"></a>
+### Madde 8
+
+Birden fazla tekrarlanan dersler için muafiyet değerlendirmesinde, en son alınan başarı notu esas alınır.
+
+<a id="madde-9"></a>
+### Madde 9
+
+İçerikleri üniversitelere göre değişmeyen Atatürk İlkeleri ve İnkılap Tarihi ve Türk Dili dersleri bazı üniversitelerde kredisiz, bazılarında kredili olabildiğinden dersleri alıp başarı göstermiş öğrencilerin muafiyet işlemleri, kredi uyumuna bakılmaksızın yapılır ve AKTS kredisi verilir.
+
+<a id="madde-10"></a>
+### Madde 10
+
+Muafiyet taleplerinde; birden fazla dersin bir derse eşdeğer sayılması durumunda bu derslerin kredisine göre ağırlıklı not ortalaması alınarak intibak yapılır. Bir dersin içeriğinin, birden fazla derse eşdeğer sayılması durumunda, ilgili dersin başarı notu eşdeğer derslerin tamamı için geçerli sayılır.
+
+<a id="madde-11"></a>
+### Madde 11
+
+Muaf tutulan dersler için harfli not uygulanır ve derslerin başarı notları, GNO hesabında değerlendirmeye alınır.
+
+<a id="madde-12"></a>
+### Madde 12
+
+Öğrencinin daha önce öğrenim gördüğü kurumdan almış olduğu öğrenim durum belgesindeki (transkript) bir dersin harfli başarı notu hesaplanırken:
+
+(1) Diğer yükseköğretim kurumlarında 100'lük sistemde alınan notların 4'lük sisteme dönüştürülmesinde YÖK tarafından yapılan düzenleme doğrultusundaki “4'lük Sistemdeki Notların 100'lük Sistemdeki Karşılıkları” (NDS tablosu) esas alınarak yapılır.
+
+(2) Sadece harf notu varsa intibak formuna bu harf notu yazılır.
+
+(3) Sadece dörtlük notu bulunuyorsa, Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi’nin Ön Lisans ve Lisans Sınav ve Başarı Değerlendirme Yönergesindeki dörtlük nota karşılık gelen harf notu muafiyet /intibak formuna yazılır.
+
+(4) Önceki öğrenim durum belgesinde başarı notu olarak “geçer”, “başarılı”, “yeterli”, “muaf” vb. terimler kullanılmışsa, başarı notu olarak “EX” harf notu kullanılır.
+
+## ÜÇÜNCÜ BÖLÜM – İntibak Yarıyıl/Yılının Tespiti, Komisyon Raporları
+
+<a id="madde-13"></a>
+### Madde 13
+
+Öğrencinin, muaf olduğu derslerin AKTS kredi toplamı 45’den az ise birinci sınıfa, 45-89 arasında ise ikinci sınıfa, 90-120 arasında ise üçüncü sınıfa intibakı yapılır. Öğrenci İntibak ettirildiği sınıfın müfredatına tabi olur. Bu süre azami süreden düşürülür ve öğrencinin programın kalan derslerini zaman içerisinde tamamlaması gerekir. İntibakı yapılan öğrencinin daha sonraki eğitim-öğretim sürelerinde intibakı değiştirilemez. Alınmayan/muaf olunmayan dersler öncelikle alınır. (değişiklik 16.10.2019 tarih ve 26/1 sayılı Senato Kararı)
+
+<a id="madde-14"></a>
+### Madde 14 – Muafiyet/İntibak raporlarının düzenlenmesi
+
+Muafiyet/İntibak Raporlarının düzenlenmesinde tüm birimlerde Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Kalite Yönetim Sisteminde yer alan “Ders Muafiyet Formu” kullanılır.
+
+<a id="madde-15"></a>
+### Madde 15
+
+Ders Muafiyet Formunda daha önce alınarak başarılı sayılan dersler ile Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi’nde bu dersler karşılığında muaf olunan derslerin kodu, adı, uyarlanmış harfli başarı notu ve AKTS Kredisi yer alır. Ayrıca öğrencinin kaçıncı yıla intibak ettirileceği de bu formda belirtilir.
+
+## DÖRDÜNCÜ BÖLÜM – Muafiyet ve İntibak ile İlgili Genel Hususlar
+
+<a id="madde-16"></a>
+### Madde 16
+
+Muafiyet başvuruları, muafiyet başvurularının sonlandığı tarihten başlayarak 5 (beş) iş günü içerisinde ilgili bölüm/program Muafiyet ve İntibak Komisyonları tarafından sonuçlandırılarak, ilgili birim yönetim kurullarınca karara bağlanır.
+
+<a id="madde-17"></a>
+### Madde 17
+
+Muafiyet talepleri ilgili yönetim kurulu tarafından karara bağlanıncaya kadar öğrenciler, muafiyet talebinde bulundukları derslere devam ederler.
+
+<a id="madde-18"></a>
+### Madde 18
+
+Öğrenciler öncelikle alt yarıyıllardan muaf olamadıkları ya da daha önce almadıkları dersleri alırlar.
+
+<a id="madde-19"></a>
+### Madde 19
+
+Öğrencinin intibakına ilişkin Birim Yönetim Kurul kararının ilan edilmesinin ardından, en geç 5 iş günü içerisinde muaf tutulan dersler nedeniyle bulunduğu yarıyıl/yıla kadar tüm derslerini alıp başarmış olması ve genel ağırlıklı not ortalaması 3,50 ve üzeri olmak şartıyla, alacağı derslerin AKTS kredisi toplamı kayıt olacağı dönemdeki AKTS kredisinin 4/3’ünü geçmeyecek şekilde bir üst yarıyıldan/yıldan alınmak istenen dersler için danışmanının görüşü alınarak bölüm başkanlığına başvurulur. (değişiklik 16.10.2019 tarih ve 26/1 sayılı Senato Kararı)
+
+<a id="madde-20"></a>
+### Madde 20
+
+İntibak işlemlerinin Öğrenci İşleri Daire Başkanlığı’na iletilmesinden sonra ilgili daire tarafından öğrenci veri tabanına işlenir.
+
+<a id="madde-21"></a>
+### Madde 21
+
+Muaf olunan derslerin AKTS kredi toplamı intibak edilen programdaki ders programında mezuniyet için gerekli olan toplam AKTS yükünün %50’sini geçemez. Muafiyet verilen derslerin AKTS kredi toplamı % 50’sini geçer ise, muaf olunacak dersler öğrencinin almış olduğu en yüksek nottan başlayarak belirlenir. Sıralamada eşit başarı düzeyindeki dersler arasında tercih yapma durumunda kalındığında, alt yarıyıl/yıllara ait derslere öncelik verilir.
+
+<a id="madde-22"></a>
+### Madde 22
+
+Açık öğretim/uzaktan eğitim programlarında verilen ortak zorunlu dersleri başaran öğrenciler, bu derslerden muaf sayılabilirler. Açık öğretim/uzaktan eğitim programlarında alınan diğer dersler için, muafiyet ve intibak işlemleri yapılmaz. (değişiklik 16.10.2019 tarih ve 26/1 sayılı Senato Kararı)
+
+<a id="madde-23"></a>
+### Madde 23 – Hazırlık Sınıfı Muafiyet Esasları
+
+(1) Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi'ne kayıt yaptıran öğrencilerin hazırlık sınıfından muaf olabilmeleri için, o yılki akademik takvimde ilan edilen Yeterlik Sınavına girip başarılı olmaları veya Yükseköğretim Kurulu Başkanlığı ve Yabancı Diller Yüksek Okulu tarafından eşdeğerliği kabul edilen ulusal ve uluslararası sınavlardan geçerli puanı elde etmeleri gerekir.
+
+(2) Bu maddenin birinci fıkrasındaki koşulları sağlayan öğrenciler lisans programlarına başlayabilirler. Başarısız olan öğrenciler Hazırlık Sınıfına devam ederler.
+
+<a id="madde-24"></a>
+### Madde 24 – İtirazlar
+
+Muafiyet ve intibak işlemleri hakkındaki kararlara yönelik itirazlar, Birim Yönetim Kurulu kararının ilan/tebliğ tarihinden itibaren 5 (beş) iş günü içinde ilgili Birime yapılır.
+
+<a id="madde-25"></a>
+### Madde 25 – Hüküm Bulunmayan Haller
+
+Bu yönergede hüküm bulunmayan hallerde 2547 sayılı Yükseköğretim Kanunu, Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Ön lisans ve Lisans Eğitim-Öğretim Yönetmeliği ve ilgili diğer mevzuat hükümleri uygulanır.
+
+<a id="madde-26"></a>
+### Madde 26 – Yürürlük
+
+Bu Yönerge Senato tarafından kabul edildiği tarihinden itibaren yürürlüğe girer.
+
+<a id="madde-27"></a>
+### Madde 27 – Yürütme
+
+Bu Yönerge Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Rektörü tarafından yürütülür.
+
+
+---
+<!-- dosya: mevzuat/yatay-gecis-yonergesi.md -->
+
+---
+ad: ATÜ Yatay Geçiş Yönergesi
+tur: Yönerge
+resmi_metin: https://kms.kaysis.gov.tr/Home/Goster/202940
+madde_sayisi: 18
+metin_cikarma: 2026-10-22 (resmî PDF'ten, yapay zekâ kullanılmadan)
+goz_kontrolu: yapılmadı
+---
+
+# ATÜ Yatay Geçiş Yönergesi
+
+> Resmî metin: https://kms.kaysis.gov.tr/Home/Goster/202940. Bu metin resmî PDF'ten çıkarılmıştır. Şüphede resmî metin esastır.
+
+## BİRİNCİ BÖLÜM – Başlangıç Hükümleri
+
+<a id="madde-1"></a>
+### Madde 1 – Amaç
+
+Bu yönergenin amacı, önlisans ve lisans düzeyindeki öğrencilerin Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi (ATÜ)’nde fakülte, yüksekokul, meslek yüksekokulu bünyesinde yer alan diploma programları arasında veya diğer yükseköğretim kurumlarından ATÜ’deki eşdeğer diploma programlarına yatay geçiş usul ve esaslarını düzenlemektir.
+
+<a id="madde-2"></a>
+### Madde 2 – Kapsam
+
+(1) Bu yönerge, ATÜ’ de ve diğer yükseköğretim kurumlarında lisans ve önlisans düzeyindeki diploma programları arasındaki her türlü yatay geçişe ve kredi aktarımına ilişkin hükümleri kapsar.
+
+<a id="madde-3"></a>
+### Madde 3 – Dayanak
+
+(1) Bu yönerge, 2547 sayılı Yükseköğretim Kanunu ve Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yandal ile Kurumlararası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik esas alınarak hazırlanmıştır.
+
+<a id="madde-4"></a>
+### Madde 4 – Tanımlar
+
+(1)Yönergede geçen,
+
+a) Değişim programı: Yurtiçi veya yurt dışı iki yükseköğretim kurumu arasında düzenlenen protokol çerçevesinde kurumların birine kayıtlı olan öğrencilerin kısa süreli olarak diğer kurumda eğitim görmelerini ve bir kurumdan alınan derslerin diğer yükseköğretim kurumunda eşdeğer olarak kabul edilebilmesini öngören programı,
+
+b) Diploma programı: Fakülte, yüksekokul, meslek yüksekokulu veya bölümlerin belirlenen yeterlilikleri sağlayan öğrencilere önlisans veya lisans diploması düzenlenen yükseköğretim programlarını,
+
+ç) Düzey: Önlisans veya lisans diploma programlarından her birini,
+
+c) Eşdeğer diploma programı: İsimleri aynı olan veya ilgili yönetim kurulları tarafından içeriklerinin en az yüzde sekseni aynı olduğu tespit edilen diploma programlarını,
+
+d) Farklı Puan Türü: Öğrenci Seçme ve Yerleştirme sisteminde yükseköğretim programlarına yerleştirmede kullanılan puanların hesaplanmasında kullanılan testler dikkate alınarak 2018 yılından itibaren SAY Puan Türü (TYT ile AYT), SÖZ Puan Türü (TYT ile AYT), EA Puan Türü (TYT ile AYT), DİL Puan Türü (TYT ile YDT) olmak üzere dört puan türünü; 2010 yılından itibaren SAY Puan Türü (YGS -1 ile YGS -2), SÖZ Puan Türü (YGS -3 ile YGS -4), EA Puan Türü (YGS -5 ile YGS -6), Matematik –Fen (MF) Puan Türü, Türkçe – Matematik (TM) Puan Türü, Türkçe – Sosyal (TS) Puan Türü, Yabancı Dil (DİL) Puan Türü olmak üzere yedi puan türünü; 2009 yılı ve öncesinde ise EA-1, SAY-1, SÖZ-1, EA-2, SAY-2, SÖZ-2 ve DİL olmak üzere yedi puan türünü ve bu puan türlerinden SAY-1 SAY Puan Türüne, SÖZ-1 SÖZ Puan Türüne, EA-1 EA Puan Türüne, SAY-2 Matematik – Fen Puan Türüne, EA-2 Türkçe – Matematik Puan Türüne, SÖZ-2 Türkçe- Sosyal Puan Türüne, DİL ise Yabancı Dil Puan Türüne karşılığını,
+
+e) Genel not ortalaması: Öğrencinin hazırlık sınıfı hariç, geçiş yapmak istediği döneme kadar almış olduğu tüm derslerin AKTS/kredilerine göre ağırlıklandırılmış not ortalamasını,
+
+f) İlgili yönetim kurulu: Yükseköğretim kurumlarındaki fakültelerde fakülte yönetim kurulunu, yüksekokullarda yüksekokul yönetim kurulunu, meslek yüksekokullarında meslek yüksekokulu yönetim kurulunu,
+
+g) İntibak programı: Diploma programları arasında geçiş yapılması halinde, geçiş yapılan diploma programının müfredatına uyum sağlamak amacıyla ilave ders ve uygulamalardan oluşan programı,
+
+ı) Kontenjan: Önceden belirlenip ilan edilen öğrenci sayısını,
+
+h) Kurum içi yatay geçiş: Bir öğrencinin kayıtlı olduğu yükseköğretim kurumu içindeki aynı düzeydeki diğer diploma programlarına geçişini,
+
+i) Kurumlar arası yatay geçiş: Bir üniversite, yüksek teknoloji enstitüsü veya vakıflar tarafından bir üniversiteye bağlı olmaksızın kurulan meslek yüksekokullarından aynı düzeyde başka bir üniversite, yüksek teknoloji enstitüsü veya vakıflar tarafından kurulan bağımsız meslek yüksekokullarına yapılan geçişi,
+
+j) Not çizelgesi: Öğrenim süresi içinde alınan derslerin, isim, kredi ve başarı notlarının topluca yazıldığı belgeyi,
+
+k) Ortak program: Fakülte, yüksekokul veya meslek yüksekokuluna kabul edilen öğrencilerin önlisans veya lisans derecesi verilen bir diploma programına geçmeden önce aynı yükseköğretim kurumunda aldıkları derslerden oluşan programı,
+
+l) Uluslararası ortak diploma programı: Yükseköğretim kurumlarının yurt dışındaki yükseköğretim kurumları ve diğer kuruluşlarla işbirliği tesis ederek önlisans veya lisans diploması veren programlarında yürüttükleri uluslararası ortak eğitim ve öğretim programını,
+
+m) Taban puan: Bir yükseköğretim kurumunun diploma programına Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından merkezi sınavla yerleştirilen en düşük puanlı öğrencinin giriş puanını,
+
+n) Yatay geçiş: Bir yükseköğretim kurumunda kayıtlı olan öğrencinin bu Yönetmelikteki esaslar çerçevesinde, aynı düzeydeki diğer diploma programlarında öğrenime devam etme hakkı kazanmasını,
+
+o)Yükseköğretim öğrenci veritabanı (YÖKSİS): Yükseköğretim Kurulu bünyesinde tüm yükseköğretim kurumlarında önlisans, lisans ve lisansüstü düzeylerde öğrenim gören öğrencilerin bilgilerinin tutulduğu merkezi veritabanını, ifade eder.
+
+## İKİNCİ BÖLÜM – Genel İlkeler
+
+<a id="madde-5"></a>
+### Madde 5 – Kontenjan
+
+(1) Farklı yükseköğretim kurumlarının diploma programları veya ATÜ içindeki diploma programları arasında, ancak önceden ilan edilen sayı ve geçiş şartları çerçevesinde geçiş yapılabilir.
+
+(2) Yatay geçiş kontenjanlarında ilan tarihinden sonra değişiklik veya kontenjanlar arasında aktarma yapılamaz.
+
+(3) ÖSYM tarafından yapılan yerleştirmelerde kontenjan sınırlaması bulunmayan diploma programlarına yatay geçişlerde kontenjan sınırlaması uygulanmaz.
+
+<a id="madde-6"></a>
+### Madde 6 – Geçişler
+
+(1) Önlisans ve lisans diploma programlarının hazırlık sınıfına; önlisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz.
+
+(2) Üniversite içinde aynı diploma programlarında birinci öğretimden ikinci öğretime kontenjan sınırlaması olmaksızın yatay geçiş yapılabilir. Ancak, ikinci öğretim diploma programına geçiş yapan öğrenciler ikinci öğretim ücreti öderler.
+
+(3) İkinci öğretimden sadece ikinci öğretim diploma programlarına yatay geçiş yapılabilir. Ancak, ikinci öğretim diploma programlarından başarı bakımından bulunduğu sınıfın ilk yüzde onuna girerek bir üst sınıfa geçen öğrenciler birinci öğretim diploma programlarına kontenjan dâhilinde yatay geçiş yapabilirler.
+
+(4) Uzaktan öğretimden, üniversitemiz uzaktan öğretim diploma programlarına yatay geçiş yapılabilir. Uzaktan öğretimden örgün öğretim programlarına geçiş yapılabilmesi için, öğrencinin öğrenim görmekte olduğu programdaki genel not ortalamasının 100 üzerinden 80 veya üzeri olması veya kayıt olduğu yıldaki merkezi yerleştirme puanının, geçmek istediği diploma programının o yılki taban puanına eşit veya yüksek olması gerekir.
+
+(5) Birinci veya ikinci öğretim diploma programlarından uzaktan eğitim veren diploma programlarına yatay geçiş yapılabilir.
+
+<a id="madde-7"></a>
+### Madde 7 – Başvuru ve değerlendirme
+
+(1) Diploma programları arasında yatay geçiş başvuruları, sadece ilan edilen süre içerisinde yapılır.
+
+(2) Kurum (üniversite) içi programlar arası yatay geçişlerde, öğrencinin başvurduğu döneme kadar kayıtlı olduğu diploma programında sorumlu olduğu tüm dersleri başarmış ve genel not ortalamasının en az 3.00 olması şartı aranır.
+
+(3) Kurumlar arası yatay geçişte, öğrencinin kayıtlı olduğu diploma programında sorumlu olduğu tüm dersleri başarmış olması, ayrıca bitirmiş olduğu dönemlere ait genel not ortalamasının 100 üzerinden en az 60 veya merkezi yerleştirme puanı geçiş yapmak istediği diploma programının taban puanına eşit veya yüksek olması gerekir.
+
+(4) Kayıt dondurmuş olmak, yatay geçiş hakkından yararlanmak için engel teşkil etmez. Kayıt dondurmuş olan öğrencilerin başvurdukları yarıyıl itibariyle kayıtlı olduğu diploma programlarında sorumlu oldukları tüm derslerden başarılı olmaları gerekir.
+
+(5) Yatay geçiş başvurusu yapacak öğrencilerin daha önce herhangi bir disiplin cezası almamış olmaları şarttır.
+
+(6) İlgili yönetim kurulları tarafından oluşturulan yatay geçiş komisyonları Başvurularla ilgili ön değerlendirmeyi, bu yönergedeki esaslar çerçevesinde yapar. Başvurular, adayların genel not ortalaması, farklı puan türlerindeki programlara geçiş için merkezi yerleştirme puanı ve eğer varsa geçmek istediği programın ortak derslerindeki başarısı dikkate alınarak, yukarıda belirlenmiş olan kıstaslara göre değerlendirilir ve ayrılan kontenjana göre geçiş sağlanır.
+
+(7) Diploma programına yatay geçiş yerleştirme işlemleri, ATÜ’nün ilgili yönetim kurulu kararı üzerine yapılır.
+
+(8)Dörtlük veya yüzlük sisteme göre elde edilen başarı notlarının birbirine dönüştürülmesinde, Yükseköğretim Yürütme Kurulu tarafından belirlenen dönüştürme tabloları kullanılır.
+
+(9) Tamamen veya kısmen yabancı dil ile eğitim yapan programlara yatay geçiş için öğrencinin Üniversitemiz Yabancı Diller Yüksekokulu Eğitim-Öğretim ve Sınav Yönergesindeki muafiyet koşullarını sağlaması şarttır.
+
+<a id="madde-8"></a>
+### Madde 8 – Sonuçların ilanı ve intibak programı
+
+(1) Her bir diploma programına yatay geçiş için başvuran adayların değerlendirme sonuçları, ATÜ’nün internet sayfasında duyurulur. Yatay geçiş hakkı kazananlara kendileri hakkındaki karar, internet duyurusuyla tebliğ edilir.
+
+(2) Başarı şartını taşıyan yeterli sayıda adayın olması hâlinde kontenjan sayısı kadar yedek aday ilan edilir. Belirlenen süre içinde asıl adaylardan başvuru yapılmaması halinde sırayla yedekler çağrılır.
+
+(3) İlgili komisyonlar öğrencinin daha önceki dönemlerde aldığı dersler ile yatay geçiş yaptığı programın derslerini dikkate alarak, 7. maddede belirtilen esaslara göre öğrencinin hangi yarıyıla veya sınıfa intibak ettirileceğini tespit eder, varsa öğrencinin alması gereken ilave derslerden oluşan bir intibak programını ve muaf tutulması gereken dersleri belirler.
+
+(4) Bu Yönerge kapsamında geçiş yapan öğrencilerin yeni durumları, kayıt işlemi tamamlanıp, geçiş ve intibak işlemleri kesinleştikten sonra en geç 15 gün içinde Öğrenci İşleri Daire Başkanlığı tarafından yükseköğretim öğrenci veritabanına (YÖKSİS) işlenir. İlgili yılda/dönemde yatay geçiş başvurusu kabul edilerek kayıt yaptıran ancak eğitim-öğretim dönemi başlamadan önce yatay geçiş hakkından vazgeçen öğrencilerin yatay geçiş işlemleri iptal edilir. Bu öğrenciler yatay geçiş yapmış öğrenci kabul edilmez ve kendi kurumlarına geri dönerler. Bu öğrenciler yatay geçiş kaydını iptal ettirdikleri yıl/dönemde başka bir yükseköğretim kurumuna yatay geçiş hakkı elde etmeleri durumunda yatay geçiş yapabilirler.
+
+## ÜÇÜNCÜ BÖLÜM – Kurum (Üniversite) İçi Programlar Arası Yatay Geçiş
+
+<a id="madde-9"></a>
+### Madde 9 – Üniversite içi yatay geçiş kontenjanları ve taban puan şartı
+
+(1) Bir fakülte, yüksekokul, konservatuvar veya meslek yüksekokulunun kendi bünyesindeki veya diğer fakülte, yüksekokul, konservatuvar veya meslek yüksekokulunun bünyesindeki eşdeğer düzeyde diploma programlarına ilgili yönetim kurulu tarafından belirlenen kontenjanlar dâhilinde yatay geçiş yapılabilir.
+
+(2) Hangi dönemlerde ve hangi diploma programları için üniversite içi yatay geçiş kontenjanı belirleneceği, her bir diploma programı için ikinci yarıyıldan başlamak ve beşinci yarıyıl dâhil olmak üzere, kontenjan ilan edilen her yıl için ÖSYM Kılavuzunda öngörülen öğrenci kontenjanının % 15’ini geçmeyecek biçimde, ilgili yönetim kurulları tarafından karara bağlanır.
+
+(3) Üniversite içi yatay geçiş kontenjanları, ilgili diploma programının son dört yıla ait taban puanları, üniversite içi yatay geçiş için 7. maddede belirtilen şartlarla birlikte, son başvurunun kabul edileceği günden en az 15 gün öncesinde ATÜ’nün internet sayfasında ilan edilir.
+
+(4) Programların üniversite içi kontenjanları aynı fakülte, yüksekokul, konservatuvar veya meslek yüksekokulu bünyesinde yer alan diploma programları ile diğer fakülte, yüksekokul, konservatuvar veya meslek yüksekokulu bünyesindeki diploma programları için ayrı ayrı belirlenebilir. 5) Üniversite bünyesindeki aynı düzeyde fakat farklı merkezi yerleştirme puan türü ile öğrenci kabul eden diploma programları arasında yatay geçiş başvurusu yapılabilmesi için, öğrencinin merkezi sınava girdiği yıl itibarıyla geçmek istediği diploma programı için geçerli olan puan türünde aldığı merkezi yerleştirme puanının, geçmek istediği diploma programına eşdeğer yurtiçindeki diğer üniversitelerin diploma programlarının en düşük taban puanından az olmaması şartı aranır.
+
+(6) Tamamen veya kısmen yabancı dil ile eğitim yapan programlara yatay geçiş yapan adayların İngilizce dil yeterliklerini, Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Yabancı Diller Yüksekokulu Eğitim-Öğretim ve Sınav Yönergesinde belirtilen esaslara göre başvuru sırasında belgelemesi şarttır.
+
+## DÖRDÜNCÜ BÖLÜM – Kurumlar Arası Yatay Geçiş
+
+<a id="madde-10"></a>
+### Madde 10 – Yükseköğretim Kurumlarından ATÜ’ye  yatay geçiş
+
+(1) Üniversitemize kurumlar arası yatay geçiş, aynı düzeydeki eşdeğer diploma programları arasında ve Yükseköğretim Kurulu tarafından yayınlanan kontenjanlar çerçevesinde yapılır.
+
+(2) Bu şekilde yatay geçiş için öğrencinin, kayıtlı olduğu programda bitirmiş olduğu dönemlere ait genel not ortalamasının 100 üzerinden en az 60 veya merkezi yerleştirme puanı geçiş yapmak istediği diploma programının taban puanına eşit veya yüksek olması şarttır.
+
+(3) Üniversitemiz için belirlenen yatay geçiş kontenjanları ile başvuru ve değerlendirme takvimi, Yükseköğretim Kurulu internet sayfasında ilan edilir.
+
+(4) Her yıl düzenli olarak ikinci ve üçüncü sınıflar için, ÖSYM giriş genel kontenjanı 50 ve 50’den az olan diploma programlarında iki, 51 ve 100 arası olan programlarda üç, 101 ve üzerinde olan diploma programlarında ise dört adet kurumlar arası yatay geçiş kontenjanı belirlenir.
+
+(5) Önlisans derecesi verilen diploma programlarında yatay geçiş kontenjanları ile başvuru ve değerlendirme takvimi ikinci yarıyıl için Ocak ayı, üçüncü yarıyıl için ise Temmuz ayı içinde ilan edilir.
+
+(6)Tamamen veya kısmen yabancı dil ile eğitim yapan programlara yatay geçiş için öğrencinin Üniversitemiz Yabancı Diller Yüksekokulu Eğitim-Öğretim ve Sınav Yönergesinde ki muafiyet koşullarını sağlaması şarttır.
+
+(7)Yatay geçişle gelen öğrencilerin önceki diploma programından aldığı ve başarılı olduğu derslerin intibakları yapılarak, bu derslere ilişkin daha önce alınan notlar transkripte işlenir.
+
+<a id="madde-11"></a>
+### Madde 11 – Değerlendirme
+
+(1) Üniversitemize kurumlar arası yapılan yatay geçiş değerlendirme sonuçları, geçerli başvurusu olan tüm adayların isimleri, değerlendirmede esas alınan puanlara göre sıralanmış biçimde ATÜ’nün internet sayfasında ilan edilir.
+
+(2) Başvurularla ilgili ön değerlendirmeyi, bu yönerge çerçevesinde, yatay geçiş komisyonu yapar. Yatay geçiş başvurusunda bulunan öğrencilerin değerlendirme puanı Değerlendirme puanı = [(Adayın yerleştiği programdaki Merkezi Yerleştirme Puanı / Geçiş yapılmak istenilen programın ilgili yıldaki taban puanı) * 0,60] + [Genel Not Ortalaması * 0,40] formül eas alınarak hesaplanır.
+
+Elde edilen notlar büyükten küçüğe doğru sıralandıktan sonra en yüksek notlu öğrenciden başlayarak kontenjan dâhilinde yatay geçiş yapacak öğrenciler belirlenir.
+
+(3) Yeterli şartları taşıyan aday olması hâlinde aynı sayıda asıl ve yedek aday belirlenir. Takvimde belirlenen süre içinde başvurmayan asıl adaylar yerine sırasıyla yedek adayların başvurusu alınır. Yatay geçiş hakkı kazanan öğrencilerin intibak programları, bu öğrencilerin yeni akademik yarıyıla diğer öğrencilerle aynı tarihte başlamasını sağlayacak biçimde yapılır.
+
+<a id="madde-12"></a>
+### Madde 12 – Yurt dışı Yükseköğretim Kurumlarından ATÜ’ye yatay geçiş
+
+(1) ATÜ Senatosu tarafından yurt dışındaki yükseköğretim kurumlarından yapılacak yatay geçişler için kontenjan belirlenebilir. Kontenjan belirlenmesi halinde her bir program için kurumlar arası yatay geçiş kontenjanının yarısını aşmayacak şekilde belirlenen yurt dışı yükseköğretim kurumları kontenjanları, kurumlar arası yatay geçiş kontenjanları ile birlikte Yükseköğretim Kuruluna en geç Haziran ayının otuzuncu günü mesai saati bitimine kadar bildirilir. Yurt dışı öğrenci kontenjanları ile başvuru şartları ve değerlendirme takvimi Yükseköğretim Kurulu internet sayfasında ilan edilir.
+
+(2) Yabancı ülkelerdeki yükseköğretim kurumlarından üniversitemize geçiş için, öğrencinin bu yönergenin 10. maddesinin ikinci ve altıncı fıkrasında belirlenen kurumlar arası yatay geçiş başarı şartları aranır.
+
+(3) Yurt dışı üniversitelerden yapılan başvurularda öğrencinin yurt dışında öğrenim gördüğü yükseköğretim kurumunun ve eğitimin yapıldığı programın önlisans veya lisans diploma vermeye yetkili bir kurum olarak Yükseköğretim Kurulu tarafından tanınması ve kayıtlı olduğu diploma programının, yatay geçiş için başvurduğu önlisans veya lisans diploma programına eşdeğerliğinin ATÜ tarafından kabul edilmesi şartı aranır.
+
+(4) Yurt dışındaki yükseköğretim kurumlarından yatay geçişte öğrencinin yatay geçiş yapmak istediği, üniversitemizdeki diploma programının ilgili sınıfına öğrenci kabulündeki taban puana sahip öğrenciler, yurt dışında yükseköğrenim gördüğü tüm derslerden başarı şartı aranmaksızın yatay geçiş başvurusu yapabilirler. Bu yolla başvuran öğrencilerin yatay geçiş başvurusu üniversite senatosu tarafından belirlenen esaslar çerçevesinde yurt dışı yatay geçiş kontenjanı kapsamı dışında değerlendirilir.
+
+(5) Yurt dışında yükseköğretime başlayan öğrencilerin Türkiye’deki yükseköğretim programlarına geçiş başvurularının değerlendirilmesinde kullanılacak olan ÖSYM tarafından yapılan Öğrenci Seçme ve Yerleştirme Sınavlarındaki asgari puanlar ile bunlara eşdeğerliği kabul edilen sınavlar ve puanları, üniversiteler tarafından belirlenen yurt dışı yatay geçiş kontenjanları ile birlikte Yükseköğretim Kurulu tarafından ilan edilir. Adayların, yatay geçiş başvurusu yapabilmeleri için en az ilan edilen puanlara veya üzerindeki puanlara sahip olması gerekir.
+
+(6) Yurt dışındaki yükseköğretim kurumlarından yatay geçişte, yurt dışındaki aynı yükseköğretim kurumundan bir programın her bir sınıfına geçiş yapabilecek öğrenci sayısı o programın ilgili sınıfının yurt dışı kontenjanının yüzde 15’ini geçemez. Yüzde 15’in hesaplanmasında 1’in altındaki sayılar 1’e tamamlanır. Virgülden sonraki kısım 5’ten küçükse alttaki tam sayıya, 5 ve yukarısında ise bir üst tam sayıya tamamlanır.
+
+(7) Kuzey Kıbrıs Türk Cumhuriyeti dâhil yurt dışında kurulmuş olan yükseköğretim kurumlarından Üniversitemizdeki başarı sıralaması şartı aranan diploma programlarına yatay geçiş yapılabilir. Yükseköğretim Kurulu, bununla ilgili mevcut ilkeler dışında ilave şartlar belirleyebilir. Yurt dışındaki bir yükseköğretim kurumundan Üniversitemizdeki başarı sıralaması şartı aranan bir programa yatay geçiş yapılabilmesi için;
+
+a) Öğrencinin yükseköğrenimine başladığı yıl, kayıtlı olduğu üniversitenin Yükseköğretim Kurulu tarafından esas alınan sıralama kuruluşlarının (Times Higher Education (THE), QS World University Rankings, Academic Ranking of World Universities (ARWU), CWTS Leiden Ranking) en az üçünde ilk dört yüzlük dilim içerisinde yer alması ve bu Yönetmeliğin dönem/sınıf ve başarı şartlarını taşıması,
+
+b) İlk dört yüzlük dilim dışında kalan bir üniversitede kayıtlı olunması halinde; 1) Ortaöğretimini Türkiye’de tamamlayanların, her halükarda merkezi yerleştirme sınavına girmiş ve kayıt yılı itibarıyla başarı sıralaması şartı aranan programın ilgili puan türünde başarı sıralaması şartını sağlamış olması, 2) Ortaöğretiminin en az son iki yılını yurt dışında tamamlayanların, kayıt oldukları diploma programının, hazırlık sınıfı hariç en az dört yarıyılını başarıyla geçmiş olması, gerekir.
+
+## BEŞİNCİ BÖLÜM – Özel Durumlar
+
+<a id="madde-13"></a>
+### Madde 13
+
+(1) Kamu kurum ve kuruluşlarında asli ve sürekli kamu hizmetlerinde görevlendirilenlerin, sürekli olarak bir başka yere atanmaları halinde, kendileri ile bakmakla yükümlü oldukları çocukları ve eşleri, eşdeğer diploma programının, son sınıf veya son iki yarıyılı dışında her sınıf veya yarıyılına eğitim-öğretim yılının başlamasından itibaren en geç bir ay içinde kayıtlı oldukları diploma programına girişteki merkezi yerleştirme puanları, geçiş yapmak istediği diploma programının yerleştikleri yıl itibariyle taban puanından daha yüksek olmak şartı ile kontenjan aranmaksızın nakledilebilirler.
+
+(2) Yurt dışındaki yükseköğretim kurumlarından yatay geçişte öğrencinin anne veya babasının, devlet hizmetinde görevli ise görevinin sona ermesi sebebiyle Türkiye’ye dönmesi, işçi ise kesin dönüş yapması halinde, yabancı dil sınıfı hariç en az bir yıl okumuş ve yıl sonu sınavlarının tamamını başarı ile vermiş olması yatay geçiş başvurusu için yeterlidir. Bu kapsamda başvuru yapan öğrenciler, ilgili yönetim kurulunca yurt dışı yatay geçiş kontenjanı kapsamı dışında değerlendirir.
+
+(3) Türkiye’de hizmet görmekte olan yabancı diplomatların çocuklarının başvuruları, kontenjan şartı aranmaksızın başvurduğu birimin yönetim kurulu tarafından değerlendirilir. Başvurunun kabul edilmesi halinde her bir öğrenci için gerekli intibak programı hazırlanır.
+
+## ALTINCI BÖLÜM – Çeşitli ve Son Hükümler
+
+<a id="madde-14"></a>
+### Madde 14 – Merkezi yerleştirme puanıyla yatay geçiş
+
+(1) Öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanı, geçmek istediği diploma programının taban puanına eşit veya yüksek olması durumunda, öğrenci, hazırlık sınıfı da dahil olmak üzere yatay geçiş için başvuru yapabilir. Programa yatay geçişe ilişkin başvuru takvimi, öğrenci kontenjanına ilişkin esaslar ile yatay geçişlere ilişkin usul ve esaslar Yükseköğretim Yürütme Kurulu tarafından tespit edilir. Belirlenen usul ve esaslar uyarınca öğrencilerin başvuruları Üniversitemiz ilgili kurulları tarafından değerlendirilerek yatay geçişleri kabul edilir. Başvurunun kontenjandan fazla olduğu durumlarda ÖSYS puanı en yüksek adaydan başlayıp sıralanarak kontenjan kadar adayın yatay geçişi kabul edilir. Lisans programlarına Merkezi Yerleştirme Puanı ile Bahar yarıyılında öğrenci alımı yapılmaz.
+
+(2) Bu madde kapsamında eğitim gördüğü programdan farklı bir programa yatay geçiş yapan öğrencilerin azami süreleri, programın azami süresinden kabul edildiği sınıf çıkartılarak hesaplanır.
+
+<a id="madde-15"></a>
+### Madde 15 – Özel durumlarda yatay geçiş
+
+(1) Şiddet olayları ve insani kriz nedeniyle eğitim öğretimin sürdürülemez olduğu Yükseköğretim Kurulu tarafından tespit edilen ülkelerde öğrenim gören öğrenciler yatay geçiş başvurusu yapabilirler. Bu konuya ilişkin usul ve esaslar Yükseköğretim Kurulu tarafından belirlenir.
+
+<a id="madde-16"></a>
+### Madde 16 – Hüküm bulunmayan hâller
+
+(1) Bu yönergede hüküm bulunmayan hâllerdeYükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yandal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik’in hükümleri, ilgili mevzuat hükümleri, senato ve yönetim kurulu kararları uygulanır.
+
+<a id="madde-17"></a>
+### Madde 17 – Yürürlük
+
+(1) Bu yönerge ATÜ Senatosu tarafından kabul edildiği tarihte yürürlüğe girer.
+
+(2) Bu Yönergenin Senatoda kabul edilmesiyle 09.12.2016 tarihli ve 20/3 sayılı senato kararı ile uygulanmakta olan Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal ve Yandal Yapılması Esaslarına İlişkin Yönerge yürürlükten kaldırılmıştır.
+
+<a id="madde-18"></a>
+### Madde 18 – Yürütme
+
+(1) Bu yönerge hükümlerini ATÜ Rektörü yürütür.
+
+| Yönergenin Kabul Edildiği Senato Kararı |  |
+|---|---|
+| Tarihi | Sayısı |
+| 26.06.2024 | 2024/16-2 |
+
+
+---
+<!-- dosya: programlar/AYZ.md -->
+
+# AYZ – Arka-Yüz Yazılım Geliştirme ders listesi
+
+> Kaynak: Mufredat_Ders_Listesi.md (ders bildirim formu). Ders içerikleri: AYZ Bologna Ders Bilgi Paketi (2025-2026).
+
+## 1. Yarıyıl (Güz) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| AYZ101 | Programlama Temelleri | Zorunlu | 3 | 2 | 5 | 5 |
+| AYZ103 | Web Tasarımı | Zorunlu | 2 | 3 | 5 | 5 |
+| AYZ105 | Yazılım Geliştirme Temelleri ve Süreçleri | Seçmeli | 2 | 1 | 3 | 3 |
+| MAT101 | Matematik | Zorunlu | 3 | 0 | 3 | 5 |
+| ING101 | İngilizce I | Zorunlu | 2 | 0 | 2 | 2 |
+| TUR1 | Türk Dili I | Zorunlu | 2 | 0 | 2 | 2 |
+| HIS1 | Atatürk İlkeleri ve İnkılap Tarihi I | Zorunlu | 2 | 0 | 2 | 2 |
+| ISG101 | İş Sağlığı ve Güvenliği | Zorunlu | 2 | 0 | 2 | 3 |
+| ADS1XX | Alan Dışı Seçmeli I | Seçmeli | 2 | 0 | 2 | 3 |
+
+## 2. Yarıyıl (Bahar) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| AYZ102 | Nesne Tabanlı Programlama | Zorunlu | 2 | 3 | 5 | 5 |
+| AYZ104 | Veritabanı Yönetim Sistemleri | Zorunlu | 2 | 3 | 5 | 5 |
+| AYZ106 | Veri Yapıları ve Algoritmalar | Zorunlu | 2 | 3 | 5 | 5 |
+| AYZ108 | Web Programlama | Zorunlu | 2 | 1 | 3 | 3 |
+| ING102 | İngilizce II | Zorunlu | 2 | 0 | 2 | 2 |
+| TUR2 | Türk Dili II | Zorunlu | 2 | 0 | 2 | 2 |
+| HIS2 | Atatürk İlkeleri ve İnkılap Tarihi II | Zorunlu | 2 | 0 | 2 | 2 |
+| AYZ1XX | Teknik Seçmeli I | Seçmeli | 2 | 1 | 3 | 3 |
+| ADS1XX | Alan Dışı Seçmeli II | Seçmeli | 2 | 0 | 2 | 3 |
+
+## 3. Yarıyıl (Güz) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| AYZ201 | Web Servisleri ve Uygulama Programlama Arayüzleri (API) | Zorunlu | 2 | 3 | 5 | 5 |
+| AYZ203 | Ağ Teknolojileri ve Cihaz Yönetimi | Zorunlu | 2 | 2 | 4 | 4 |
+| AYZ205 | CPU ile Paralel Programlama | Zorunlu | 2 | 2 | 4 | 4 |
+| AYZ207 | Sunucu Tabanlı Programlama | Zorunlu | 2 | 2 | 4 | 5 |
+| AYZ209 | Yapay Zeka Uygulamaları | Zorunlu | 2 | 1 | 3 | 3 |
+| AYZ2XX | Teknik Seçmeli II | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ2XX | Teknik Seçmeli III | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ2XX | Teknik Seçmeli IV | Seçmeli | 2 | 1 | 3 | 3 |
+
+## 4. Yarıyıl (Bahar) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| AYZ202 | Yazılım Proje Yönetimi ve Çevik Pratikler | Zorunlu | 2 | 1 | 3 | 4 |
+| AYZ204 | Girişimcilik ve Kariyer Planlama | Zorunlu | 2 | 0 | 2 | 3 |
+| AYZ206 | Web Güvenliği | Zorunlu | 2 | 2 | 4 | 5 |
+| AYZ208* | Staj | Zorunlu | 0 | 2 | 2 | 6 |
+| AYZ212* | Bitirme Projesi | Zorunlu | 5 | 0 | 5 | 6 |
+| AYZ2XX | Teknik Seçmeli V | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ2XX | Teknik Seçmeli VI | Seçmeli | 2 | 1 | 3 | 3 |
+
+## Teknik Seçmeli Dersler Havuzu (2., 3. ve 4. Yarıyıl)
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| AYZ150 | Bilgisayar Grafikleri | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ152 | Bulut Bilişim Temelleri | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ154 | Mikroservis Mimarisi ve Uygulamaları | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ251 | Tümleşik Geliştirme Ortamları (IDE) | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ253 | Çoklu Ortam Yazılım Geliştirme | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ255 | İleri Veritabanı Yönetim Sistemleri | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ257 | Veri Analitiği ve Büyük Veri Temelleri | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ259 | Yapay Sinir Ağları | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ261 | Derin Öğrenmenin Temelleri | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ263 | Veri Güvenliği | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ265 | Güvenli Yazılım Geliştirme | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ267 | Mobil Uygulama Geliştirme | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ250 | Arka Yüz Performans ve Optimizasyon Teknikleri | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ252 | Web Tabanlı Sunum Hazırlama | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ254 | İleri Uygulama Programlama Arayüzleri (API) Geliştirme | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ256 | Yazılımda Kalite ve Bilgi Güvenliği | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ258 | Yazılımda Sürüm Kontrol Sistemleri | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ260 | Modern Yazılım Dağıtım Yöntemleri (CI/CD) | Seçmeli | 2 | 1 | 3 | 3 |
+| AYZ262 | Yazılım Mimarileri | Seçmeli | 2 | 1 | 3 | 3 |
+
+## Alan Dışı Seçmeli Dersler Havuzu (ADSXXX)
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| ADSXXX | Örgütsel İletişim | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Türkiye Turizm Coğrafyası | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Örgütsel Davranış | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Özel İlgi Turizmi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İş Etiği | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İnsan Kaynakları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Dünya Coğrafyası ve Seyahat Destinasyonları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Müzakere Becerileri | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Yönetim ve Organizasyon | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Finansal Pazarlar ve Kurumlar | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Stratejik Yönetim | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | E-Ticaret | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Dünya Ekonomisi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Uluslararası İşletme Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İşletme | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Pazarlama İlkeleri | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Küresel Pazarlama | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Tüketici Davranışları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İktisada Giriş | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Sosyal Girişimcilik | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Marka Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kültürel Miras ve Turizm Gelişimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Takım Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Liderlik ve Değişim | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Satış Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Akademik Türkçe | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Gönüllülük Çalışmaları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kariyer Planlama | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Bilgi İletişim Teknolojileri ve E-Devlet | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Bilim Tarihi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Fikri Mülkiyet Hakları ve Patent | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Girişim Finansmanı | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İş Hukuku | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kamu Politikası | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kamu Yönetiminde Güncel Sorunlar | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Proje Yazılım ve Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Mühendisler için MATLAB’e Giriş | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Sosyolojiye Giriş | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Tiyatro | Seçmeli | 2 | 0 | 2 | 3 |
+
+## Ders içerikleri
+
+- **AYZ101:** Programlama temel bilgisi; problem çözme ve algoritmalar; akış diyagramları; bilgisayar programlamaya giriş; veri tipleri ve değişkenler; operatörler; karar kontrol yapıları; çevrim kontrol yapıları; fonksiyonlar; göstergeler; diziler; çok boyutlu diziler; dosyalar, yapılar.
+- **AYZ103:** Web tasarımının temel kavramları ve web sitesi mimarisi ele alınarak HTML yapısı, etiketleri ve sayfa yapılandırma süreçleri işlenir. Çoklu ortam araçları, form işlemleri ve CSS temelleri incelenirken responsive tasarımın temel ilkeleri üzerinde durulur. JavaScript ve kütüphanelerinin kullanımı öğretilerek modern, kullanıcı dostu ve etkileşimli web arayüzlerinin geliştirilmesi hedeflenir.
+- **AYZ105:** Temel bilgisayar kavramları ve yazılıma girişten başlayarak yazılım geliştirme süreçleri, yaşam döngüsü ve modelleri ele alınır. Gereksinim analizi, tasarım ilkeleri, test ve kod yayınlama süreçleri incelenir. Sürüm kontrol sistemleri, bulut bilişim ve güncel sektör uygulamaları tanıtılarak yazılım projelerinin analizi ve değerlendirmesi yapılır.
+- **MAT101:** Sayılarla işlemler, üslü ve köklü sayılar, cebirsel ifadeler, çarpanlara ayırma ve temel özdeşlikler, denklemler, oran-orantı, yüzde-kâr-zarar ve maliyet hesapları, eşitsizlikler, türev ve uygulamaları, integral ve uygulamaları.
+- **ING101:** Temel akademik İngilizce becerileri: taslak çıkarma, bir yazının ana düşüncesini bulma, özet yazma, bir şeyi başka cümlelerle anlatma, not alma ve tartışma alanlarında pratik; temel okuma, eleştirel düşünme, konuşma becerileri ve farklı paragraf türleri yazma.
+- **ISG101:** İş sağlığı ve güvenliği (İSG) kavramsal çerçevesi; iş kazaları ve meslek hastalıklarının nedenleri, sonuçları ve önlenmesiyle ilgili temel bilgiler; mühendislik alanında İSG ve etik.
+
+
+---
+<!-- dosya: programlar/YZO.md -->
+
+# YZO – Yapay Zekâ Operatörlüğü ders listesi
+
+> Kaynak: Mufredat_Ders_Listesi.md (ders bildirim formu). Ders içerikleri: bu program için pakette yok.
+
+## 1. Yarıyıl (Güz) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| YZO101 | Yapay Zeka Operatörlüğüne Giriş | Zorunlu | 3 | 2 | 5 | 5 |
+| YZO103 | Veri Bilimi | Zorunlu | 3 | 2 | 5 | 5 |
+| YZO105 | Programlama Temelleri | Zorunlu | 2 | 1 | 3 | 3 |
+| MAT101 | Matematik | Zorunlu | 3 | 0 | 3 | 5 |
+| ING101 | İngilizce I | Zorunlu | 2 | 0 | 2 | 2 |
+| TUR1 | Türk Dili I | Zorunlu | 2 | 0 | 2 | 2 |
+| HIS1 | Atatürk İlkeleri ve İnkılap Tarihi I | Zorunlu | 2 | 0 | 2 | 2 |
+| ISG101 | İş Sağlığı ve Güvenliği | Zorunlu | 2 | 0 | 2 | 3 |
+| ADS1XX | Alan Dışı Seçmeli I | Seçmeli | 2 | 0 | 2 | 3 |
+
+## 2. Yarıyıl (Bahar) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| YZO102 | Olasılık ve İstatistik | Zorunlu | 3 | 0 | 3 | 3 |
+| YZO104 | Veritabanı Yönetim Sistemleri | Zorunlu | 2 | 3 | 5 | 5 |
+| YZO106 | Veri Yapıları ve Algoritmalar | Zorunlu | 2 | 3 | 5 | 5 |
+| YZO108 | Yapay Zeka ve Makine Öğrenmesi | Zorunlu | 2 | 3 | 5 | 5 |
+| ING102 | İngilizce II | Zorunlu | 2 | 0 | 2 | 2 |
+| TUR2 | Türk Dili II | Zorunlu | 2 | 0 | 2 | 2 |
+| HIS2 | Atatürk İlkeleri ve İnkılap Tarihi II | Zorunlu | 2 | 0 | 2 | 2 |
+| YZO1XX | Teknik Seçmeli I | Seçmeli | 2 | 1 | 3 | 3 |
+| ADS1XX | Alan Dışı Seçmeli II | Seçmeli | 2 | 0 | 2 | 3 |
+
+## 2. Yarıyıl Teknik Seçmeli Ders Havuzu
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| YZO150 | Nesne Tabanlı Programlama | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO152 | Veri Görselleştirme Araçları | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO154 | Sağlıkta Yapay Zekâ | Seçmeli | 2 | 1 | 3 | 3 |
+
+## 3. Yarıyıl (Güz) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| YZO201 | Yapay Zekâ Sistemlerinde Başarım Analizi | Zorunlu | 2 | 2 | 4 | 4 |
+| YZO203 | Simülasyon ve Modelleme | Zorunlu | 2 | 3 | 5 | 5 |
+| YZO205 | Yapay Sinir Ağları ve Derin Öğrenme | Zorunlu | 2 | 3 | 5 | 5 |
+| YZO207 | Yapay Zekâ ve Etik | Zorunlu | 2 | 0 | 2 | 3 |
+| YZO209 | Operasyonel Yapay Zekâ | Zorunlu | 2 | 2 | 4 | 4 |
+| YZO2XX | Teknik Seçmeli II | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO2XX | Teknik Seçmeli III | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO2XX | Teknik Seçmeli IV | Seçmeli | 2 | 1 | 3 | 3 |
+
+## 3. Yarıyıl Teknik Seçmeli Ders Havuzu
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| YZO251 | Nesnelerin İnterneti | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO253 | Büyük Veri ve Veri Madenciliği | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO255 | Yapay Zekâ ve Bulut Teknolojileri | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO257 | Doğal Dil İşleme | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO259 | Görüntü İşleme | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO261 | Web Madenciliği | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO263 | Sosyal Ağ Analizi | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO265 | Uygulamalı Veri Analizi | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO267 | Büyük Veri Teknolojileri | Seçmeli | 2 | 1 | 3 | 3 |
+
+## 4. Yarıyıl (Bahar) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| YZO202 | Proje Yönetimi ve Uygulamaları | Zorunlu | 2 | 1 | 3 | 4 |
+| YZO204 | Girişimcilik ve Kariyer Planlama | Zorunlu | 2 | 0 | 2 | 3 |
+| YZO206 | Yapay Zekâ ve Güvenlik | Zorunlu | 2 | 2 | 4 | 5 |
+| YZO208 | Staj | Zorunlu | 0 | 2 | 2 | 6 |
+| YZO210 | Bitirme Projesi | Zorunlu | 0 | 5 | 5 | 6 |
+| YZO2XX | Teknik Seçmeli V | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO2XX | Teknik Seçmeli VI | Seçmeli | 2 | 1 | 3 | 3 |
+
+## 4. Yarıyıl Teknik Seçmeli Ders Havuzu
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| YZO250 | Veri Güvenliği ve Gizliliği | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO252 | Güncel Yapay Zeka Uygulamaları | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO254 | Yapay Zekâ ve Bulut Teknolojileri | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO256 | Veri Alma ve Geçerleme | Seçmeli | 2 | 1 | 3 | 3 |
+| YZO258 | Yapay Zekâ Donanımları | Seçmeli | 2 | 1 | 3 | 3 |
+
+## Alan Dışı Seçmeli Dersler Havuzu (ADSXXX)
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| ADSXXX | Örgütsel İletişim | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Türkiye Turizm Coğrafyası | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Örgütsel Davranış | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Özel İlgi Turizmi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İş Etiği | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İnsan Kaynakları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Dünya Coğrafyası ve Seyahat Destinasyonları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Müzakere Becerileri | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Yönetim ve Organizasyon | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Finansal Pazarlar ve Kurumlar | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Stratejik Yönetim | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | E-Ticaret | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Dünya Ekonomisi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Uluslararası İşletme Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İşletme | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Girişimcilik I | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Girişimcilik II | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Pazarlama İlkeleri | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Küresel Pazarlama | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Tüketici Davranışları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İktisada Giriş | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Sosyal Girişimcilik | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Marka Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kültürel Miras ve Turizm Gelişimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Takım Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Liderlik ve Değişim | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Satış Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Akademik Türkçe | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Gönüllülük Çalışmaları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kariyer Planlama | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Bilgi İletişim Teknolojileri ve E-Devlet | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Bilim Tarihi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Fikri Mülkiyet Hakları ve Patent | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Girişim Finansmanı | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İş Hukuku | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kamu Politikası | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kamu Yönetiminde Güncel Sorunlar | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Proje Yazılım ve Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Mühendisler için MATLAB’e Giriş | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Sosyolojiye Giriş | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Tiyatro | Seçmeli | 2 | 0 | 2 | 3 |
+
+
+---
+<!-- dosya: programlar/BUV.md -->
+
+# BUV – Büyük Veri Analistliği ders listesi
+
+> Kaynak: Mufredat_Ders_Listesi.md (ders bildirim formu). Ders içerikleri: bu program için pakette yok.
+
+## 1. Yarıyıl (Güz) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| BUV101 | Programlama Temelleri | Zorunlu | 3 | 2 | 5 | 5 |
+| BUV103 | Veri Bilimi | Zorunlu | 2 | 3 | 5 | 5 |
+| BUV105 | Bilgisayar Temelleri ve Veri Uygulamaları | Zorunlu | 2 | 1 | 3 | 3 |
+| MAT101 | Matematik | Zorunlu | 3 | 0 | 3 | 5 |
+| ING101 | İngilizce I | Zorunlu | 2 | 0 | 2 | 2 |
+| TUR1 | Türk Dili I | Zorunlu | 2 | 0 | 2 | 2 |
+| HIS1 | Atatürk İlkeleri ve İnkılap Tarihi I | Zorunlu | 2 | 0 | 2 | 2 |
+| ISG101 | İş Sağlığı ve Güvenliği | Zorunlu | 2 | 0 | 2 | 3 |
+| ADS1XX | Alan Dışı Seçmeli I | Seçmeli | 2 | 0 | 2 | 3 |
+
+## 2. Yarıyıl (Bahar) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| BUV102 | Olasılık ve İstatistik | Zorunlu | 3 | 0 | 3 | 3 |
+| BUV104 | Veritabanı Yönetim Sistemleri | Zorunlu | 2 | 3 | 5 | 5 |
+| BUV106 | Veri Yapıları ve Algoritmalar | Zorunlu | 2 | 3 | 5 | 5 |
+| BUV108 | Büyük Veri Teknolojileri | Zorunlu | 2 | 3 | 5 | 5 |
+| ING102 | İngilizce II | Zorunlu | 2 | 0 | 2 | 2 |
+| TUR2 | Türk Dili II | Zorunlu | 2 | 0 | 2 | 2 |
+| HIS2 | Atatürk İlkeleri ve İnkılap Tarihi II | Zorunlu | 2 | 0 | 2 | 2 |
+| BUV1XX | Teknik Seçmeli I | Seçmeli | 2 | 1 | 3 | 3 |
+| ADS1XX | Alan Dışı Seçmeli II | Seçmeli | 2 | 0 | 2 | 3 |
+
+## 2. Yarıyıl Teknik Seçmeli Ders Havuzu
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| BUV150 | Nesne Tabanlı Programlama | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV152 | Veri Madenciliği | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV154 | Doğal Dil İşleme | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV156 | Sağlıkta Yapay Zekâ | Seçmeli | 2 | 1 | 3 | 3 |
+
+## 3. Yarıyıl (Güz) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| BUV201 | Makine Öğrenmenin Temelleri | Zorunlu | 2 | 3 | 5 | 5 |
+| BUV203 | Büyük Dil Modelleri ve Uygulamaları | Zorunlu | 2 | 3 | 5 | 5 |
+| BUV205 | Sosyal Ağ Analizi | Zorunlu | 2 | 2 | 4 | 4 |
+| BUV207 | Veri Görselleştirme | Zorunlu | 2 | 1 | 3 | 3 |
+| BUV209 | Özellik Mühendisliği | Zorunlu | 2 | 2 | 4 | 4 |
+| BUV2XX | Teknik Seçmeli II | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV2XX | Teknik Seçmeli III | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV2XX | Teknik Seçmeli IV | Seçmeli | 2 | 1 | 3 | 3 |
+
+## 3. Yarıyıl Teknik Seçmeli Ders Havuzu
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| BUV251 | Yapay Sinir Ağları | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV253 | Derin Öğrenmenin Temelleri | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV255 | Görüntü İşleme | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV257 | Web Madenciliği | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV259 | Büyük Veri için Bulut Bilişim | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV261 | Veri Alma ve Geçerleme | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV263 | Vektör Veritabanları | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV265 | Makine Öğrenme ve MLOps Yazılım Geliştirme | Seçmeli | 2 | 1 | 3 | 3 |
+
+## 4. Yarıyıl (Bahar) Dersleri
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| BUV202 | Proje Yönetimi ve Uygulamaları | Zorunlu | 2 | 1 | 3 | 4 |
+| BUV204 | Girişimcilik ve Kariyer Planlama | Zorunlu | 2 | 0 | 2 | 3 |
+| BUV206 | Büyük Veri Gizliliği ve Güvenliği | Zorunlu | 2 | 2 | 4 | 5 |
+| BUV208 | Staj | Zorunlu | 0 | 2 | 2 | 6 |
+| BUV210 | Bitirme Projesi | Zorunlu | 0 | 5 | 5 | 6 |
+| BUV2XX | Teknik Seçmeli V | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV2XX | Teknik Seçmeli VI | Seçmeli | 2 | 1 | 3 | 3 |
+
+## 4. Yarıyıl Teknik Seçmeli Ders Havuzu
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| BUV250 | Nesnelerin İnterneti | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV252 | Kişisel Verilerin Korunumu ve Etik | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV254 | Zaman Serisi Analizi ve Tahmini | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV256 | Paralel Programlama Temelleri | Seçmeli | 2 | 1 | 3 | 3 |
+| BUV258 | İş Zekâsı ve Karar Destek Sistemleri | Seçmeli | 2 | 1 | 3 | 3 |
+
+## Alan Dışı Seçmeli Dersler Havuzu (ADSXXX)
+
+| Kod | Ders | Tür | T | U | Toplam saat | AKTS |
+|---|---|---|---|---|---|---|
+| ADSXXX | Örgütsel İletişim | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Türkiye Turizm Coğrafyası | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Örgütsel Davranış | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Özel İlgi Turizmi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İş Etiği | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İnsan Kaynakları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Dünya Coğrafyası ve Seyahat Destinasyonları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Müzakere Becerileri | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Yönetim ve Organizasyon | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Finansal Pazarlar ve Kurumlar | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Stratejik Yönetim | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | E-Ticaret | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Dünya Ekonomisi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Uluslararası İşletme Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İşletme | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Girişimcilik I | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Girişimcilik II | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Pazarlama İlkeleri | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Küresel Pazarlama | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Tüketici Davranışları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İktisada Giriş | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Sosyal Girişimcilik | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Marka Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kültürel Miras ve Turizm Gelişimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Takım Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Liderlik ve Değişim | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Satış Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Akademik Türkçe | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Gönüllülük Çalışmaları | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kariyer Planlama | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Bilgi İletişim Teknolojileri ve E-Devlet | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Bilim Tarihi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Fikri Mülkiyet Hakları ve Patent | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Girişim Finansmanı | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | İş Hukuku | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kamu Politikası | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Kamu Yönetiminde Güncel Sorunlar | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Proje Yazılım ve Yönetimi | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Mühendisler için MATLAB’e Giriş | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Sosyolojiye Giriş | Seçmeli | 2 | 0 | 2 | 3 |
+| ADSXXX | Tiyatro | Seçmeli | 2 | 0 | 2 | 3 |
