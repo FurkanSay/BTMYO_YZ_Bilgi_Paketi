@@ -1,6 +1,6 @@
 # ATÜ BTMYO Muafiyet ve Yatay Geçiş Bilgi Paketi
 
-Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi, Bilişim Teknolojileri Meslek Yüksekokulu öğrencileri için muafiyet, intibak ve yatay geçiş bilgi paketi. Sürüm: 2026-10-22 (2026-2027 Güz). Bilgilendirme amaçlıdır; kararı Yönetim Kurulu verir.
+Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi, Bilişim Teknolojileri Meslek Yüksekokulu öğrencileri için muafiyet, intibak ve yatay geçiş bilgi paketi. Sürüm: 2026-10-23 (2026-2027 Güz). Bilgilendirme amaçlıdır.
 
 ## Öğrenciler için
 

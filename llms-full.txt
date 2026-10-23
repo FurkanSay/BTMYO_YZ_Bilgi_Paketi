@@ -1,6 +1,6 @@
 # ATÜ BTMYO Muafiyet ve Yatay Geçiş Bilgi Paketi
 
-> Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi, Bilişim Teknolojileri Meslek Yüksekokulu ön lisans öğrencilerinin muafiyet, intibak ve yatay geçiş sorularını kendi yapay zekâ asistanlarıyla mevzuata dayanarak cevaplayabilmesi için hazırlanmış bilgi paketi. Sürüm: 2026-10-22 (2026-2027 Güz). Bilgilendirme amaçlıdır; kararı Yönetim Kurulu verir.
+> Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi, Bilişim Teknolojileri Meslek Yüksekokulu ön lisans öğrencilerinin muafiyet, intibak ve yatay geçiş sorularını kendi yapay zekâ asistanlarıyla mevzuata dayanarak cevaplayabilmesi için hazırlanmış bilgi paketi. Sürüm: 2026-10-23 (2026-2027 Güz). Bilgilendirme amaçlıdır.
 
 ## Yapay zekâ için talimatlar
 
@@ -11,13 +11,14 @@ Bu bölüm, bu paketi bir öğrencinin isteğiyle okuyan yapay zekâ asistanlar�
 ### Kurallar
 
 1. Yalnız bu paketteki metinlere dayan. Genel bilgini ya da başka üniversitelerin kurallarını kullanma.
-2. Yalnız mevzuatta açıkça yazan hükümleri söyle. Mevzuatta yazmayan bir hak, istisna ya da kolaylık sorulursa "Mevzuatta böyle bir hüküm yok." de. "Komisyon değerlendirebilir", "belki kabul edilir" gibi açık uçlu ifadeler kullanma; tahmin yürütme.
-3. Paketin konuları dışındaki bir soru gelirse "Bu konu bilgi paketinde yok; bölüm sekreterliğine danış." de.
-4. Her hükmün kaynağını yaz, örneğin "(Muafiyet ve İntibak Yönergesi md. 7)".
-5. İki hüküm birbirinden farklıysa ikisini de madde numarasıyla aynen aktar; hangisinin uygulanacağı konusunda yorum yapma.
-6. Ad, TC kimlik numarası, öğrenci numarası gibi kişisel bilgi isteme. Öğrenci paylaşırsa cevabında tekrarlama ve paylaşmamasını hatırlat.
-7. "Muafsın" ya da "kabul edilirsin" deme. Her değerlendirmenin sonuna şunu ekle: "Bu, mevzuata göre bir ön kontroldür. Başvurun Muafiyet ve İntibak Komisyonunca sonuçlandırılır ve Yönetim Kurulunca karara bağlanır (Muafiyet ve İntibak Yönergesi md. 16)."
-8. Türkçe, sade ve kısa yaz.
+2. Yalnız mevzuatta açıkça yazan hükümleri söyle. Mevzuatta yazmayan bir hak, istisna ya da kolaylık sorulursa "Mevzuatta böyle bir hüküm yok." de. Tahmin yürütme.
+3. Mevzuattaki ölçütleri kendin uygula. "Komisyon karar verir", "kurul değerlendirir", "birimin takdirindedir" gibi ifadelerle değerlendirmeyi başkasına bırakma; eşleştirmeyi ve karşılaştırmayı sen yap.
+4. Paketin konuları dışındaki bir soru gelirse "Bu konu bilgi paketinde yok; bölüm sekreterliğine danış." de.
+5. Her hükmün kaynağını yaz, örneğin "(Muafiyet ve İntibak Yönergesi md. 7)".
+6. İki hüküm birbirinden farklıysa ikisini de madde numarasıyla aynen aktar; hangisinin uygulanacağı konusunda yorum yapma.
+7. Ad, TC kimlik numarası, öğrenci numarası gibi kişisel bilgi isteme. Öğrenci paylaşırsa cevabında tekrarlama ve paylaşmamasını hatırlat.
+8. "Muafsın" ya da "kabul edilirsin" deme. Her değerlendirmenin sonuna şunu ekle: "Bu, mevzuata göre yapılmış bir ön kontroldür."
+9. Türkçe, sade ve kısa yaz.
 
 ### İlk mesajın
 
@@ -25,13 +26,13 @@ Kendini tanıt, "Neler yapabilirim" listesini göster, kişisel bilgi paylaşmam
 
 ### Ders muafiyeti ön kontrolü
 
-1. Öğrenciden şunları iste: kayıtlı olduğu ATÜ programı; her ders için ders adı, haftalık teorik ve uygulama saati, AKTS, harf notu; dersi aldığı yer (Türkiye'de bir üniversite, yurt dışında bir üniversite, açık öğretim ya da uzaktan eğitim programı) ve dersi hangi ATÜ dersine saydırmak istediği. Hangi ATÜ dersine saydıracağını bilmiyorsa programın ders listesini göster ve seçmesini iste; eşleştirmeyi sen yapma.
-2. "Muafiyet ölçütü" ve "Not ve not dönüşümü" kural kartlarındaki şartları sırayla uygula: dersin alındığı yer, not, saat (saat bilgisi yoksa AKTS).
-3. ATÜ dersinin saatini ve AKTS'sini programlar/ klasöründeki ders listesinden al.
-4. Sonuç yalnız iki türlüdür: "Mevzuattaki şartları sağlıyor görünüyor." ya da "Mevzuattaki şartları sağlamıyor:" ve ardından sağlanmayan şart ile maddesi.
-5. Ders içeriğinin uyumlu olması da şarttır (Muafiyet ve İntibak Yönergesi md. 7). İçeriği sen karşılaştırma; öğrenciye başvurusuna onaylı ders içeriğini eklemesi gerektiğini söyle (md. 5).
-6. Sonucu tablo olarak ver: Senin dersin | ATÜ dersi | Saat / AKTS | Not | Sonuç | Dayanak. Tablonun altına şartları sağlayan ATÜ derslerinin AKTS toplamını ve "İntibak" kartına göre hangi sınıfa intibak edileceğini yaz.
-7. Ders, paketteki ders listelerinde yoksa "Bu ders paketteki ders listelerinde yok." de.
+1. **Bilgi iste:** Kayıtlı olduğu ATÜ programı; her ders için ders adı, haftalık teorik ve uygulama saati, AKTS, harf notu, dersin içeriği (işlenen konular) ve dersi aldığı yer (Türkiye'de bir üniversite, yurt dışında bir üniversite, açık öğretim ya da uzaktan eğitim programı).
+2. **Eşleştir:** Öğrencinin dersini, programın ders listesindeki (programlar/) zorunlu, seçmeli ve havuz (teknik seçmeli, alan dışı seçmeli) dersleri arasından içerikçe en uygun ATÜ dersiyle sen eşleştir. Ders adlarının aynı olması gerekmez (Muafiyet ve İntibak Yönergesi md. 7). Birden çok aday varsa hepsini ayrı ayrı değerlendir.
+3. **Şartları sırayla uygula** ("Muafiyet ölçütü" ve "Not ve not dönüşümü" kartları): dersin alındığı yer, not, saat (saat bilgisi yoksa AKTS), içerik.
+4. **İçerik:** Öğrencinin yazdığı içeriği ATÜ dersinin pakette yazan içeriğiyle karşılaştır; "uyumlu" ya da "uyumlu değil" de ve gerekçesini bir cümleyle yaz. Öğrenci içerik yazmadıysa içeriği iste. ATÜ dersinin içeriği pakette yoksa "Bu ATÜ dersinin içeriği pakette yok; içerik karşılaştırılamadı." de ve diğer şartları değerlendir.
+5. **Sonuç** yalnız iki türlüdür: "Mevzuattaki şartları sağlıyor görünüyor." ya da "Mevzuattaki şartları sağlamıyor:" ve ardından sağlanmayan şart ile maddesi.
+6. **Tablo:** Senin dersin | ATÜ dersi | Saat / AKTS | Not | İçerik | Sonuç | Dayanak. Tablonun altına şartları sağlayan ATÜ derslerinin AKTS toplamını ve "İntibak" kartına göre hangi sınıfa intibak edileceğini yaz.
+7. Ders, paketteki ders listelerinde hiçbir derse karşılık gelmiyorsa "Bu dersin paketteki ders listelerinde karşılığı yok." de.
 
 ## Neler yapabilirim
 
@@ -954,7 +955,7 @@ Ne zaman bakılır: muaf olur muyum, ders saydırma, eşdeğer ders, saat, AKTS,
 
 # AYZ – Arka-Yüz Yazılım Geliştirme ders listesi
 
-> Kaynak: Mufredat_Ders_Listesi.md (ders bildirim formu). Ders içerikleri: AYZ Bologna Ders Bilgi Paketi (2025-2026).
+> Kaynak: Mufredat_Ders_Listesi.md (ders bildirim formu). Ders içerikleri: ATÜ OBS Bologna Ders Bilgi Paketi (AYZ, 2025-2026); AYZ201: Yeni Bologna paketi (2026-2027); ATÜ OBS Bologna Ders Bilgi Paketi (AYZ, 2025-2026) (ortak zorunlu dersler); ATÜ OBS Bologna Ders Bilgi Paketi (AYZ, 2025-2026) (alan dışı seçmeli havuzu). Zorunlu, seçmeli ve havuz (teknik seçmeli, alan dışı seçmeli) derslerinin hepsi aşağıdadır.
 
 ## 1. Yarıyıl (Güz) Dersleri
 
@@ -1079,12 +1080,30 @@ Ne zaman bakılır: muaf olur muyum, ders saydırma, eşdeğer ders, saat, AKTS,
 
 ## Ders içerikleri
 
-- **AYZ101:** Programlama temel bilgisi; problem çözme ve algoritmalar; akış diyagramları; bilgisayar programlamaya giriş; veri tipleri ve değişkenler; operatörler; karar kontrol yapıları; çevrim kontrol yapıları; fonksiyonlar; göstergeler; diziler; çok boyutlu diziler; dosyalar, yapılar.
-- **AYZ103:** Web tasarımının temel kavramları ve web sitesi mimarisi ele alınarak HTML yapısı, etiketleri ve sayfa yapılandırma süreçleri işlenir. Çoklu ortam araçları, form işlemleri ve CSS temelleri incelenirken responsive tasarımın temel ilkeleri üzerinde durulur. JavaScript ve kütüphanelerinin kullanımı öğretilerek modern, kullanıcı dostu ve etkileşimli web arayüzlerinin geliştirilmesi hedeflenir.
-- **AYZ105:** Temel bilgisayar kavramları ve yazılıma girişten başlayarak yazılım geliştirme süreçleri, yaşam döngüsü ve modelleri ele alınır. Gereksinim analizi, tasarım ilkeleri, test ve kod yayınlama süreçleri incelenir. Sürüm kontrol sistemleri, bulut bilişim ve güncel sektör uygulamaları tanıtılarak yazılım projelerinin analizi ve değerlendirmesi yapılır.
-- **MAT101:** Sayılarla işlemler, üslü ve köklü sayılar, cebirsel ifadeler, çarpanlara ayırma ve temel özdeşlikler, denklemler, oran-orantı, yüzde-kâr-zarar ve maliyet hesapları, eşitsizlikler, türev ve uygulamaları, integral ve uygulamaları.
-- **ING101:** Temel akademik İngilizce becerileri: taslak çıkarma, bir yazının ana düşüncesini bulma, özet yazma, bir şeyi başka cümlelerle anlatma, not alma ve tartışma alanlarında pratik; temel okuma, eleştirel düşünme, konuşma becerileri ve farklı paragraf türleri yazma.
-- **ISG101:** İş sağlığı ve güvenliği (İSG) kavramsal çerçevesi; iş kazaları ve meslek hastalıklarının nedenleri, sonuçları ve önlenmesiyle ilgili temel bilgiler; mühendislik alanında İSG ve etik.
+Burada içeriği yazmayan bir dersin içeriği pakette yoktur.
+
+- **AYZ103 Web Tasarımı:** Ders kapsamında web tasarımının temel kavramları ve web sitesi mimarisi ele alınarak HTML yapısı, etiketleri ve sayfa yapılandırma süreçleri işlenir. Çoklu ortam araçları, form işlemleri ve CSS temelleri incelenirken, responsive tasarımın temel ilkeleri üzerinde durulur. Ayrıca Javascript ve kütüphaneleri kullanımı öğretilerek modern, kullanıcı dostu ve etkileşimli web arayüzlerinin geliştirilmesi hedeflenir.
+- **MAT101 Matematik:** Sayılarla işlemler, üslü ve köklü sayılar, cebirsel ifadeler, çarpanlara ayırma ve temel özdeşlikler, denklemler, oran-orantı, yüzde-kar-zarar ve maliyet hesapları, eşitsizlikler, Türev ve Uygulamaları, İntegral ve Uygulamaları
+- **ISG101 İş Sağlığı ve Güvenliği:** İş sağlık ve güvenliği (İSG) kavramsal çerçevesi, iş kazaları ve meslek hastalıklarının nedenleri, sonuçları ve önlenmesi ile ilgili temel bilgiler, Mühendislik alanında İSG ve etik
+- **AYZ101 Programlama Temelleri:** Programlama Temel Bilgisi Problem Çözme ve Algoritmalar Akış Diyagramları Bilgisayar Programlamaya Giriş Veri Tipleri ve Değişkenler Operatörler Karar Kontrol Yapıları Çevrim Kontrol Yapıları Fonksiyonlar Fonksiyonlar Göstergeler Diziler Çok Boyutlu Diziler Dosyalar, Yapılar
+- **AYZ105 Yazılım Geliştirme Temelleri ve Süreçleri:** Ders kapsamında temel bilgisayar kavramları ve yazılıma girişten başlayarak yazılım geliştirme süreçleri, yaşam döngüsü ve modelleri ele alınır. Gereksinim analizi, tasarım ilkeleri, test ve kod yayınlama süreçleri incelenir. Sürüm kontrol sistemleri, bulut bilişim ve güncel sektör uygulamaları tanıtılarak yazılım projelerinin analizi ve değerlendirmesi yapılır.
+- **AYZ152 Bulut Bilişim Temelleri:** Öğrencilere fiziksel sistemler ve sanallaştırmanın temel prensipleri ve uygulama alanları hakkında bilgi verir. Ayrıca, sanallaştırma platformlarının kurulumu, yapılandırılması ve yönetimi gibi pratik becerilerin kazandırılmasına odaklanır.
+- **AYZ106 Veri Yapıları ve Algoritmalar:** Bu ders kapsamında veri yapılarına ve algoritmalara ilişkin temel kavramlar ele alınmaktadır. Diziler, bağlı listeler, yığıtlar, kuyruklar, ağaçlar, grafikler ve karma tablolar gibi temel veri yapılarının yapısı ve çalışma prensipleri incelenmektedir. Arama ve sıralama algoritmaları ile algoritma analizi konularına yer verilerek algoritmaların performans değerlendirilmesi ele alınmaktadır.
+- **AYZ108 Web Programlama:** Web programlamaya giriş ve web mimarisi, HTTP/HTTPS protokolü, istemci taraflı temel teknolojiler (HTML, CSS, JavaScript), PHP programlama diline giriş, PHP sözdizimi ve kontrol yapıları, diziler ve fonksiyonlar, form işlemleri, GET–POST yöntemleri, veritabanı kavramları, PHP ile MySQL veritabanı işlemleri (CRUD), oturum (Session) ve çerez (Cookie) yönetimi, dosya işlemleri, PHP’de temel güvenlik önlemleri ve örnek web uygulaması geliştirme
+- **AYZ102 Nesne Tabanlı Programlama:** Ders kapsamında nesne yönelimli programlama paradigmasına giriş yapılmakta; programlama mantığı, temel veri tipleri, koşul ifadeleri (if-else), döngü yapıları ve metot kavramı ele alınmaktadır. Ayrıca diziler, sınıf ve nesne yapısı, kurucu metotlar (constructor), kapsülleme, kalıtım, metot aşırı yükleme (overloading) ve metot ezme (overriding) konuları incelenmektedir. Dersin ilerleyen bölümlerinde çok biçimlilik (polymorphism), soyut sınıflar ve arayüzler gibi nesne tabanlı programlamanın ileri kavramları tanıtılmaktadır.
+- **AYZ104 Veritabanı Yönetim Sistemleri:** Ders kapsamında; veritabanı kavramları ve temel prensipler, gereksinim analizi ve veritabanı tasarımı, ilişkisel model ve normalizasyon, SQL ile tablo oluşturma ve veri türleri, temel ve ileri sorgulama teknikleri, DDL ve DML komutları, fonksiyonlar ve veri gruplama işlemleri ele alınmaktadır. Ayrıca ilişkili tablolar ile sorgulama, indeksleme ve performans iyileştirme, veri yedekleme–kurtarma stratejileri ile veritabanı güvenliği konuları uygulamalı olarak işlenmektedir.
+- **AYZ208 Staj:** Öğrenim gördüğü alan ile ilgili bir iş yerinde 30 iş günü mesleki uygulamaları yapar, rapor tutar ve süre sonunda staj defterini teslim eder.
+- **AYZ201 Web Servisleri ve Uygulama Programlama Arayüzleri (API):** Ders, HTTP protokolü, JSON ve istemci-sunucu mimarisi temelinden başlayarak ASP.NET Core ile REST mimarisine uygun Web API geliştirmeyi ve middleware, bağımlılık enjeksiyonu, servis katmanı, Generic Repository ve SOLID ilkeleriyle katmanlı bir yapı kurmayı kapsar. Entity Framework Core ile PostgreSQL bağlantısı, FluentValidation ile girdi doğrulama, merkezi hata yönetimi ve Serilog ile loglama, JWT ile kimlik doğrulama ve rol tabanlı yetkilendirme, ilişkisel veri, sayfalama ve SignalR ile gerçek zamanlı bildirim dersin ana konularıdır. Dönem, API'ye bağlanan bir React arayüzü, Docker ile konteynerleştirme ve Coolify ile bulut sunucuya dağıtımla tamamlanır.
+- **HIS1 Atatürk İlkeleri ve İnkılap Tarihi I:** Osmanlı Devleti’nin son dönemlerinde yapılan ıslahatların başarısızlığının nedenleri ile bunların Atatürk dönemindeki inkılâplara etkisi örneklerle açıklanmalıdır. Osmanlı Devleti’nin son dönemlerinde devleti kurtarma adına ortaya atılan ideolojilerden Türkçülük, İslamcılık, Osmanlıcılık, Garpçılık (Batıcılık), Sosyalizm gibi akımlar tanıtılmalı, Kurtuluş Savaşı’nın; Mustafa Kemal tarafından işgalleri bitirmek, ulusal-halk egemenliğine dayalı bir devlet kurma süreci olarak yönetildiği işlenmelidir.
+- **ING101 İngilizce I:** Bu ders birinci sınıf öğrencilerinin temel akademik İngilizce becerilerini almalarını, ve kullanmalarını amaçlayarak oluşturulmuştur. Ders, taslak çıkarma, bir yazının ana düşüncesini bulma, özet yazma, bir şeyi başka cümlelerle anlatma, not alma ve tartışma alanlarında pratik yaptırmayı amaçlar. Derste ayrıca temel okuma, eleştirel düşünce, konuşma becerileri ve farklı paragraf türleri yazmak da öğretilir.
+- **TUR1 Türk Dili I:** Dil nedir ? Dilin sosyal bir kurum olarak millet hayatındaki yeri ve önemi. Türk dilinin dünya dilleri arasındaki yeri ve Türk dilinin tarihi devreleri. Türkçede sesler ve sınıflandırılması, Türkçenin ses özellikleri ve ses bilgisi ile ilgili kurallar. Türkçenin yapım ekleri ve uygulaması, kompozisyonla ilgili genel bilgiler. Kompozisyon yazmada kullanılacak plan ve uygulaması. Dilekçe ve özgeçmiş yazımı. İmlâ ve noktalama.
+- **HIS2 Atatürk İlkeleri ve İnkılap Tarihi II:** Kurtuluş Savaşı’nın başarılmasından sonra, Osmanlı kurumlarının tasfiye edilerek; halk egemenliğine dayanan, ekonomik açıdan gelişmiş, bağımsız, laik bir devlet yapısının kurulduğu; eğitimden hukuka, yurttaş- devlet ilişkilerinden kültürel alana kadar her alandaki değişikliğin bu amacı gerçekleştirmeye dönük olduğu vurgulanır.
+- **Tüketici Davranışları (ADS119, alan dışı seçmeli havuzu):** Tüketici davranışlarını açıklayan temel kavramlar, tüketici karar verme süreci, bireysel ve çevresel faktörlerin tüketim üzerindeki etkileri, tüketici motivasyonu, algı, öğrenme, tutum ve kültürel faktörler ile pazarlama stratejilerinde tüketici davranışlarının önemi.
+- **E- Ticaret (ADS137, alan dışı seçmeli havuzu):** Bu ders, e-ticaretin temel kavramlarını, iş modellerini ve uygulama alanlarını kapsamaktadır. İnternet ve dijital teknolojilerin ticaret üzerindeki etkisi, çevrimiçi alışveriş sistemleri, elektronik ödeme yöntemleri, dijital pazarlama stratejileri, lojistik ve müşteri ilişkileri yönetimi ele alınmaktadır. Ayrıca, e-ticarette güvenlik, yasal düzenlemeler ve etik konular üzerinde durularak öğrencilere hem teorik bilgi hem de uygulama becerisi kazandırılması hedeflenmektedir
+- **Gönüllülük Çalışmaları (ADS134, alan dışı seçmeli havuzu):** Derste öğrencilerin derse aktif katılımı sağlanarak görsel anlatım kullanılır ve aşağıdaki teknikler uygulanır. Argüman Okul gezisi Takım/Grup Çalışması Pratik Vaka Analizi Problem çözme Rapor Hazırlama ve/veya Sunum Proje Tasarımı/Yönetimi
+- **Uluslararası İşletme Yönetimi (ADS114, alan dışı seçmeli havuzu):** Bu ders, uluslararası işletmenin temel kavramlarını ve uluslararası ticaret ile yatırım teorilerini ele alarak işletmelerin küresel pazarlarda nasıl faaliyet gösterdiğini incelemektedir. Ayrıca ders kapsamında uluslararası pazarlara giriş stratejileri, küresel pazarlama, tedarik ve insan kaynakları yönetimi ile kültürel, politik ve ekonomik faktörlerin uluslararası işletmeler üzerindeki etkileri değerlendirilmektedir.
+- **Örgütsel Davranış (ADS110, alan dışı seçmeli havuzu):** Bu ders, çeşitlilik, tutum ve iş tatmini, duygu, kişilik ve değerler, algı, motivasyon, grup, takım, iletişim, liderlik ve güç konularını içermektedir.
+- **Yönetim ve Organizasyon (ADS102, alan dışı seçmeli havuzu):** İşletme ve yönetimin temel ilke, süreç ve tekniklerinin incelenmesi/İşletme ve Yapı unsurları/Bir sistem Olarak işletme/Alt sistemler/Yönetim Fonksiyonları
 
 
 ---
@@ -1092,7 +1111,7 @@ Ne zaman bakılır: muaf olur muyum, ders saydırma, eşdeğer ders, saat, AKTS,
 
 # YZO – Yapay Zekâ Operatörlüğü ders listesi
 
-> Kaynak: Mufredat_Ders_Listesi.md (ders bildirim formu). Ders içerikleri: bu program için pakette yok.
+> Kaynak: Mufredat_Ders_Listesi.md (ders bildirim formu). Ders içerikleri: Yeni Bologna paketleri (2026-2027); ATÜ OBS Bologna Ders Bilgi Paketi (AYZ, 2025-2026) (ortak zorunlu dersler); ATÜ OBS Bologna Ders Bilgi Paketi (AYZ, 2025-2026) (alan dışı seçmeli havuzu). Zorunlu, seçmeli ve havuz (teknik seçmeli, alan dışı seçmeli) derslerinin hepsi aşağıdadır.
 
 ## 1. Yarıyıl (Güz) Dersleri
 
@@ -1225,13 +1244,30 @@ Ne zaman bakılır: muaf olur muyum, ders saydırma, eşdeğer ders, saat, AKTS,
 | ADSXXX | Sosyolojiye Giriş | Seçmeli | 2 | 0 | 2 | 3 |
 | ADSXXX | Tiyatro | Seçmeli | 2 | 0 | 2 | 3 |
 
+## Ders içerikleri
+
+Burada içeriği yazmayan bir dersin içeriği pakette yoktur.
+
+- **YZO201 Yapay Zekâ Sistemlerinde Başarım Analizi:** Ders, genelleme kavramı, veri bölümleme ve veri sızıntısından başlayarak sınıflandırma modellerinin karmaşıklık matrisi, Precision, Recall, F1-Skoru, MCC, ROC-AUC ve PR-AUC ile değerlendirilmesini, karar eşiği seçimini ve çok sınıflı ortalamaları kapsar. Çapraz doğrulama, sapma-varyans dengesi, SHAP ve LIME ile açıklanabilirlik, aşırı öğrenme teşhisi, GridSearchCV ile hiperparametre optimizasyonu ve regresyon metrikleri dersin ikinci bölümünü oluşturur. Dönem, bilgisayarlı görü (IoU, mAP), konuşma tanıma (WER, CER), büyük dil modeli ve RAG sistemlerinin başarım analiziyle sürer; uçtan uca bir vaka çalışması ve model kartı ile raporlamayla tamamlanır.
+- **YZO261 Web Madenciliği:** Ders, HTTP, HTML ve DOM yapısı ile tarayıcı geliştirici araçlarından başlayarak CSS seçici ve XPath ile hedef veriyi bulmayı, requests ve BeautifulSoup ile statik sayfalardan veri çekmeyi kapsar. Sayfalama ve tablo verileri, veri temizleme ve düzenli ifadeler, CSV ve JSON ile kayıt, SQLite ve temel SQL dersin veri hattını oluşturur. Dönem, dinamik sayfalar ve gizli JSON API'ler, Playwright ile tarayıcı otomasyonu, web tarayıcısı (crawler) mimarisi, bot engelleri ve robots.txt ile KVKK, telif ve kullanım koşulları konularıyla tamamlanır.
+- **HIS1 Atatürk İlkeleri ve İnkılap Tarihi I:** Osmanlı Devleti’nin son dönemlerinde yapılan ıslahatların başarısızlığının nedenleri ile bunların Atatürk dönemindeki inkılâplara etkisi örneklerle açıklanmalıdır. Osmanlı Devleti’nin son dönemlerinde devleti kurtarma adına ortaya atılan ideolojilerden Türkçülük, İslamcılık, Osmanlıcılık, Garpçılık (Batıcılık), Sosyalizm gibi akımlar tanıtılmalı, Kurtuluş Savaşı’nın; Mustafa Kemal tarafından işgalleri bitirmek, ulusal-halk egemenliğine dayalı bir devlet kurma süreci olarak yönetildiği işlenmelidir.
+- **ING101 İngilizce I:** Bu ders birinci sınıf öğrencilerinin temel akademik İngilizce becerilerini almalarını, ve kullanmalarını amaçlayarak oluşturulmuştur. Ders, taslak çıkarma, bir yazının ana düşüncesini bulma, özet yazma, bir şeyi başka cümlelerle anlatma, not alma ve tartışma alanlarında pratik yaptırmayı amaçlar. Derste ayrıca temel okuma, eleştirel düşünce, konuşma becerileri ve farklı paragraf türleri yazmak da öğretilir.
+- **TUR1 Türk Dili I:** Dil nedir ? Dilin sosyal bir kurum olarak millet hayatındaki yeri ve önemi. Türk dilinin dünya dilleri arasındaki yeri ve Türk dilinin tarihi devreleri. Türkçede sesler ve sınıflandırılması, Türkçenin ses özellikleri ve ses bilgisi ile ilgili kurallar. Türkçenin yapım ekleri ve uygulaması, kompozisyonla ilgili genel bilgiler. Kompozisyon yazmada kullanılacak plan ve uygulaması. Dilekçe ve özgeçmiş yazımı. İmlâ ve noktalama.
+- **HIS2 Atatürk İlkeleri ve İnkılap Tarihi II:** Kurtuluş Savaşı’nın başarılmasından sonra, Osmanlı kurumlarının tasfiye edilerek; halk egemenliğine dayanan, ekonomik açıdan gelişmiş, bağımsız, laik bir devlet yapısının kurulduğu; eğitimden hukuka, yurttaş- devlet ilişkilerinden kültürel alana kadar her alandaki değişikliğin bu amacı gerçekleştirmeye dönük olduğu vurgulanır.
+- **Tüketici Davranışları (ADS119, alan dışı seçmeli havuzu):** Tüketici davranışlarını açıklayan temel kavramlar, tüketici karar verme süreci, bireysel ve çevresel faktörlerin tüketim üzerindeki etkileri, tüketici motivasyonu, algı, öğrenme, tutum ve kültürel faktörler ile pazarlama stratejilerinde tüketici davranışlarının önemi.
+- **E- Ticaret (ADS137, alan dışı seçmeli havuzu):** Bu ders, e-ticaretin temel kavramlarını, iş modellerini ve uygulama alanlarını kapsamaktadır. İnternet ve dijital teknolojilerin ticaret üzerindeki etkisi, çevrimiçi alışveriş sistemleri, elektronik ödeme yöntemleri, dijital pazarlama stratejileri, lojistik ve müşteri ilişkileri yönetimi ele alınmaktadır. Ayrıca, e-ticarette güvenlik, yasal düzenlemeler ve etik konular üzerinde durularak öğrencilere hem teorik bilgi hem de uygulama becerisi kazandırılması hedeflenmektedir
+- **Gönüllülük Çalışmaları (ADS134, alan dışı seçmeli havuzu):** Derste öğrencilerin derse aktif katılımı sağlanarak görsel anlatım kullanılır ve aşağıdaki teknikler uygulanır. Argüman Okul gezisi Takım/Grup Çalışması Pratik Vaka Analizi Problem çözme Rapor Hazırlama ve/veya Sunum Proje Tasarımı/Yönetimi
+- **Uluslararası İşletme Yönetimi (ADS114, alan dışı seçmeli havuzu):** Bu ders, uluslararası işletmenin temel kavramlarını ve uluslararası ticaret ile yatırım teorilerini ele alarak işletmelerin küresel pazarlarda nasıl faaliyet gösterdiğini incelemektedir. Ayrıca ders kapsamında uluslararası pazarlara giriş stratejileri, küresel pazarlama, tedarik ve insan kaynakları yönetimi ile kültürel, politik ve ekonomik faktörlerin uluslararası işletmeler üzerindeki etkileri değerlendirilmektedir.
+- **Örgütsel Davranış (ADS110, alan dışı seçmeli havuzu):** Bu ders, çeşitlilik, tutum ve iş tatmini, duygu, kişilik ve değerler, algı, motivasyon, grup, takım, iletişim, liderlik ve güç konularını içermektedir.
+- **Yönetim ve Organizasyon (ADS102, alan dışı seçmeli havuzu):** İşletme ve yönetimin temel ilke, süreç ve tekniklerinin incelenmesi/İşletme ve Yapı unsurları/Bir sistem Olarak işletme/Alt sistemler/Yönetim Fonksiyonları
+
 
 ---
 <!-- dosya: programlar/BUV.md -->
 
 # BUV – Büyük Veri Analistliği ders listesi
 
-> Kaynak: Mufredat_Ders_Listesi.md (ders bildirim formu). Ders içerikleri: bu program için pakette yok.
+> Kaynak: Mufredat_Ders_Listesi.md (ders bildirim formu). Ders içerikleri: Yeni Bologna paketleri (2026-2027); ATÜ OBS Bologna Ders Bilgi Paketi (AYZ, 2025-2026) (ortak zorunlu dersler); ATÜ OBS Bologna Ders Bilgi Paketi (AYZ, 2025-2026) (alan dışı seçmeli havuzu). Zorunlu, seçmeli ve havuz (teknik seçmeli, alan dışı seçmeli) derslerinin hepsi aşağıdadır.
 
 ## 1. Yarıyıl (Güz) Dersleri
 
@@ -1363,3 +1399,20 @@ Ne zaman bakılır: muaf olur muyum, ders saydırma, eşdeğer ders, saat, AKTS,
 | ADSXXX | Mühendisler için MATLAB’e Giriş | Seçmeli | 2 | 0 | 2 | 3 |
 | ADSXXX | Sosyolojiye Giriş | Seçmeli | 2 | 0 | 2 | 3 |
 | ADSXXX | Tiyatro | Seçmeli | 2 | 0 | 2 | 3 |
+
+## Ders içerikleri
+
+Burada içeriği yazmayan bir dersin içeriği pakette yoktur.
+
+- **BUV203 Büyük Dil Modelleri ve Uygulamaları:** Ders, büyük dil modellerinin token ve sıradaki kelimeyi tahmin etme mantığından başlayarak Python ile LLM API'lerine güvenli bağlanmayı, prompt yazma tekniklerini (sistem rolleri, sıcaklık, Few-Shot, adım adım düşündürme) ve modelden JSON çıktısı almayı kapsar. Ollama ile yerel model çalıştırma ve kuantizasyon, hafızalı sohbet botu, embedding ve kosinüs benzerliği ile kendi belgelerimizle soru-cevap (RAG) dersin uygulama omurgasını oluşturur. Dönem, modele araç bağlama (Tool Calling), yapay zekâ ile kod yazma ve hata ayıklama, görsellerle çalışan modeller ile prompt enjeksiyonu, jailbreak ve kişisel veri konularıyla sürer; öğrencinin dönemin uygulamalarından birini geliştirip GitHub'a yayımladığı ve sınıfta sunduğu proje haftasıyla kapanır. Son hafta telafi ve proje çalışmasına ayrılmıştır.
+- **BUV257 Web Madenciliği:** Ders, HTTP, HTML ve DOM yapısı ile tarayıcı geliştirici araçlarından başlayarak CSS seçici ve XPath ile hedef veriyi bulmayı, requests ve BeautifulSoup ile statik sayfalardan veri çekmeyi kapsar. Sayfalama ve tablo verileri, veri temizleme ve düzenli ifadeler, CSV ve JSON ile kayıt, SQLite ve temel SQL dersin veri hattını oluşturur. Dönem, dinamik sayfalar ve gizli JSON API'ler, Playwright ile tarayıcı otomasyonu, web tarayıcısı (crawler) mimarisi, bot engelleri ve robots.txt ile KVKK, telif ve kullanım koşulları konularıyla tamamlanır.
+- **HIS1 Atatürk İlkeleri ve İnkılap Tarihi I:** Osmanlı Devleti’nin son dönemlerinde yapılan ıslahatların başarısızlığının nedenleri ile bunların Atatürk dönemindeki inkılâplara etkisi örneklerle açıklanmalıdır. Osmanlı Devleti’nin son dönemlerinde devleti kurtarma adına ortaya atılan ideolojilerden Türkçülük, İslamcılık, Osmanlıcılık, Garpçılık (Batıcılık), Sosyalizm gibi akımlar tanıtılmalı, Kurtuluş Savaşı’nın; Mustafa Kemal tarafından işgalleri bitirmek, ulusal-halk egemenliğine dayalı bir devlet kurma süreci olarak yönetildiği işlenmelidir.
+- **ING101 İngilizce I:** Bu ders birinci sınıf öğrencilerinin temel akademik İngilizce becerilerini almalarını, ve kullanmalarını amaçlayarak oluşturulmuştur. Ders, taslak çıkarma, bir yazının ana düşüncesini bulma, özet yazma, bir şeyi başka cümlelerle anlatma, not alma ve tartışma alanlarında pratik yaptırmayı amaçlar. Derste ayrıca temel okuma, eleştirel düşünce, konuşma becerileri ve farklı paragraf türleri yazmak da öğretilir.
+- **TUR1 Türk Dili I:** Dil nedir ? Dilin sosyal bir kurum olarak millet hayatındaki yeri ve önemi. Türk dilinin dünya dilleri arasındaki yeri ve Türk dilinin tarihi devreleri. Türkçede sesler ve sınıflandırılması, Türkçenin ses özellikleri ve ses bilgisi ile ilgili kurallar. Türkçenin yapım ekleri ve uygulaması, kompozisyonla ilgili genel bilgiler. Kompozisyon yazmada kullanılacak plan ve uygulaması. Dilekçe ve özgeçmiş yazımı. İmlâ ve noktalama.
+- **HIS2 Atatürk İlkeleri ve İnkılap Tarihi II:** Kurtuluş Savaşı’nın başarılmasından sonra, Osmanlı kurumlarının tasfiye edilerek; halk egemenliğine dayanan, ekonomik açıdan gelişmiş, bağımsız, laik bir devlet yapısının kurulduğu; eğitimden hukuka, yurttaş- devlet ilişkilerinden kültürel alana kadar her alandaki değişikliğin bu amacı gerçekleştirmeye dönük olduğu vurgulanır.
+- **Tüketici Davranışları (ADS119, alan dışı seçmeli havuzu):** Tüketici davranışlarını açıklayan temel kavramlar, tüketici karar verme süreci, bireysel ve çevresel faktörlerin tüketim üzerindeki etkileri, tüketici motivasyonu, algı, öğrenme, tutum ve kültürel faktörler ile pazarlama stratejilerinde tüketici davranışlarının önemi.
+- **E- Ticaret (ADS137, alan dışı seçmeli havuzu):** Bu ders, e-ticaretin temel kavramlarını, iş modellerini ve uygulama alanlarını kapsamaktadır. İnternet ve dijital teknolojilerin ticaret üzerindeki etkisi, çevrimiçi alışveriş sistemleri, elektronik ödeme yöntemleri, dijital pazarlama stratejileri, lojistik ve müşteri ilişkileri yönetimi ele alınmaktadır. Ayrıca, e-ticarette güvenlik, yasal düzenlemeler ve etik konular üzerinde durularak öğrencilere hem teorik bilgi hem de uygulama becerisi kazandırılması hedeflenmektedir
+- **Gönüllülük Çalışmaları (ADS134, alan dışı seçmeli havuzu):** Derste öğrencilerin derse aktif katılımı sağlanarak görsel anlatım kullanılır ve aşağıdaki teknikler uygulanır. Argüman Okul gezisi Takım/Grup Çalışması Pratik Vaka Analizi Problem çözme Rapor Hazırlama ve/veya Sunum Proje Tasarımı/Yönetimi
+- **Uluslararası İşletme Yönetimi (ADS114, alan dışı seçmeli havuzu):** Bu ders, uluslararası işletmenin temel kavramlarını ve uluslararası ticaret ile yatırım teorilerini ele alarak işletmelerin küresel pazarlarda nasıl faaliyet gösterdiğini incelemektedir. Ayrıca ders kapsamında uluslararası pazarlara giriş stratejileri, küresel pazarlama, tedarik ve insan kaynakları yönetimi ile kültürel, politik ve ekonomik faktörlerin uluslararası işletmeler üzerindeki etkileri değerlendirilmektedir.
+- **Örgütsel Davranış (ADS110, alan dışı seçmeli havuzu):** Bu ders, çeşitlilik, tutum ve iş tatmini, duygu, kişilik ve değerler, algı, motivasyon, grup, takım, iletişim, liderlik ve güç konularını içermektedir.
+- **Yönetim ve Organizasyon (ADS102, alan dışı seçmeli havuzu):** İşletme ve yönetimin temel ilke, süreç ve tekniklerinin incelenmesi/İşletme ve Yapı unsurları/Bir sistem Olarak işletme/Alt sistemler/Yönetim Fonksiyonları
